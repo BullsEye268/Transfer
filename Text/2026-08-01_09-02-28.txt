@@ -1,0 +1,61 @@
+Opus vs Fable 5 Prompts
+
+1. Live Trading Terminal
+Create a professional-grade trading terminal called "APEX TERMINAL" in a single HTML file. No external media assets (images, textures, or model files) — CDN JavaScript libraries are allowed, but render the main chart yourself on HTML canvas rather than using a charting library. All market data is simulated.
+
+Requirements:
+- A realistic market simulation engine: 6 fictional tickers, each driven by a random walk with drift, per-ticker volatility, and occasional regime shifts (calm → volatile) so the tape feels alive
+- Main candlestick chart on canvas: 1m/5m/15m timeframe switching, volume bars, toggleable moving averages, and a crosshair that tracks the mouse with price/time readouts on the axes
+- Live order book beside the chart: streaming bids and asks with depth bars, plus a scrolling time-and-sales tape with buy/sell coloring
+- Watchlist panel: all 6 tickers with live prices, percent change, and animated sparklines; prices flash green/red on ticks; click to switch the main chart
+- Trading: market buy/sell with quantity input and simulated fills at the spread, a positions panel with live unrealized P&L per position, total account equity, and an equity curve chart that updates as you trade
+- Price alerts: set an alert level on any ticker, shown as a line on the chart, firing a toast notification when crossed
+- A scrolling news ticker with fictional headlines — and occasionally a headline should actually move its ticker's price (spike or dump) a few seconds after it appears
+- Layout: dense multi-panel Bloomberg-style grid, dark theme with a single accent color, monospaced numerals, keyboard shortcuts (B/S for quick trade on the active ticker)
+- A session P&L readout in the header that turns green or red, and a subtle heartbeat indicator showing the feed is live
+
+This should look like software a prop trading firm pays five figures a seat for. Density and polish over whitespace.
+
+
+
+2. 3D Kart Racer
+Create a complete, fully playable 3D kart racing game in a single HTML file using Three.js from CDN. No external media assets (images, textures, or model files) — CDN JavaScript libraries including Three.js addons are allowed. Build everything procedurally from primitives.
+
+Requirements:
+- A closed stylized circuit with elevation changes, at least two banked corners, a tunnel section with interior lighting, and checkpoint arches — bright, saturated, arcade aesthetic
+- Player kart plus three AI opponents with distinct colors and names, each with slightly different speed/handling so races don't feel scripted; light rubber-banding to keep races close
+- Drift system with depth: hold SHIFT while turning to drift, sparks build through three tiers (blue → orange → purple), release for a boost scaled to the tier — this must feel like the core skill of the game
+- Boost pads on the track and floating item boxes that grant one of three simple pickups: speed burst, a projectile that spins out the kart ahead, and a shield
+- Speed feel: FOV kick and radial speed lines at high velocity, dust particles while drifting, a squash on landing from jumps
+- Race structure: 3-2-1-GO countdown with camera flourish, 3 laps, live position tracking (1st–4th) that updates as karts overtake, per-lap times and best lap
+- Kart physics with weight: acceleration curves, offtrack grass slows you down, walls bounce you with a shake instead of stopping you dead
+- HUD: speedometer, lap counter, position, item slot, drift-tier indicator, and a minimap showing all four karts live
+- Finish: checkered flag, results screen with final standings and lap times, restart button
+- Chase camera with lag and subtle sway that pulls back at top speed
+
+Make it feel like a real arcade racer, not a tech demo. Game feel is the priority: the drift-boost loop must be satisfying enough to replay.
+
+
+
+
+
+
+
+3. GEOGUESSR Clone
+Create "OFFICE GUESSR" — a fully playable first-person guessing game in a single HTML file using Three.js from CDN. No external media assets (images, textures, or model files) — CDN JavaScript libraries including Three.js addons are allowed. Build everything procedurally from primitives; any signage or screens must be drawn with canvas-generated textures.
+
+Concept: GeoGuessr, but instead of a street, you're dropped inside the office of a famous tech company. Walk around, read the environment, and guess which company it is. CRITICAL design rule: never render real logos, wordmarks, or trademarked imagery — every clue is environmental (color palettes, architecture, furniture, props, culture references). If the logo were on the wall, there'd be no game.
+
+Requirements:
+- Six distinct office environments, one per company: Google, Apple, Meta, Amazon, Microsoft, and Netflix. Each must be instantly distinguishable through aesthetics alone — playful primary-colored furniture and a mini slide; minimalist white-and-aluminum with floor-to-ceiling glass; a dark lobby with a red-accented screening room; desks made from doors; and so on. Invent clues consistent with each company's public culture
+- Each office needs three tiers of clues: subtle (palette, architecture, lighting mood), medium (furniture and perks — nap pods, micro-kitchens, climbing holds), and obvious (a product-shaped prop, a paraphrased motto on a whiteboard, a themed conference-room name on a door plaque)
+- First-person controls: WASD + mouse look with pointer lock, collision so you can't walk through walls or furniture, subtle head-bob
+- Round flow: 5 rounds, random office each round with no repeats, a 60-second timer, press G anytime to open the guess screen — six company cards in brand colors (names only, no logos)
+- Scoring: points scale with time remaining; a HINT button highlights one medium clue with a glowing outline but costs points; wrong guesses lock that card and cut the round's max score
+- After each guess: a reveal screen showing the correct company, which clues you walked past, and a quick camera fly-to of the two biggest clues you missed, then the running total
+- Per-office lighting design: each environment gets its own mood — warm and playful, cold and minimal, dark and cinematic. The lighting itself should be a clue
+- Animated details that make offices feel inhabited: monitor screens with moving canvas-drawn content, a slowly rotating ceiling fan, steam rising from a coffee cup, a robot vacuum wandering one office
+- Final results screen: total score, per-round breakdown, a rank title from "Intern" at low scores up to "CEO" at max, and a play-again button that reshuffles
+- Polish: smooth fade transitions between rounds, minimal HUD (round, timer, score, hint), and an intro screen explaining controls with a START button
+
+Make each office feel like a real place someone works, not a furniture showroom. The game lives or dies on whether the clues are fun to discover.
