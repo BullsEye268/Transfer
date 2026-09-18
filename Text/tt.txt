@@ -1,0 +1,242 @@
+Get me the code from this image 
+
+
+
+Ah, this clears it up. Your foundry CLI is the new 0.10.x CLI, so my previous foundry service ... command was wrong for your version. The correct command group is server. Microsoft’s current CLI documentation confirms foundry server status/start/restart.
+
+1. Check the new Foundry server
+
+Run:
+
+foundry server status
+
+If it isn't running:
+
+foundry server start
+
+Then:
+
+foundry server status
+
+If it reports a problem, run:
+
+foundry server logs
+2. Test the model catalog directly
+
+Once the server is running:
+
+foundry model list
+
+This is the best test because it confirms that Foundry Local itself can access its catalog. Microslop says the first model list may download the required execution providers for your hardware.
+
+3. More importantly: switch your Python code
+
+You currently have the old foundry_local package imported:
+
+from foundry_local import FoundryLocalManager
+
+Don't use that anymore.
+
+The current Microslop Python SDK is:
+
+from foundry_local_sdk import Configuration, FoundryLocalManager
+
+and the current API is:
+
+config = Configuration(app_name="nemotron-asr")
+FoundryLocalManager.initialize(config)
+manager = FoundryLocalManager.instance
+
+models = manager.catalog.list_models()
+
+print(f"Catalog models available: {len(models)}")
+for model in models:
+    print(model)
+
+This is the current documented API.
+
+4. Fix your Python environment
+
+Your environment has both the old and new naming confusion. In your MLOps environment, run:
+
+python -m pip uninstall -y foundry-local
+python -m pip uninstall -y foundry-local-sdk
+python -m pip install -U foundry-local-sdk
+
+Then restart the VS Code Jupyter kernel.
+
+Verify:
+
+import importlib.metadata
+
+print(importlib.metadata.version("foundry-local-sdk"))
+
+Then:
+
+from foundry_local_sdk import Configuration, FoundryLocalManager
+
+FoundryLocalManager.initialize(
+    Configuration(app_name="nemotron-asr")
+)
+
+manager = FoundryLocalManager.instance
+
+models = manager.catalog.list_models()
+
+print(f"Found {len(models)} models")
+
+The current SDK is designed to work directly with Foundry Local rather than the old FoundryLocalManager().start_service() pattern.
+
+Do this now
+
+Just run these three commands in PowerShell and send me the output:
+
+foundry server status
+foundry model list
+foundry cache location
+
+Then I can give you the exact command/code to get nemotron-3.5-asr-streaming-0.6b downloaded and working for your VS Code dictation setup.
+
+---------------------------------------------------------------------------
+ModuleNotFoundError                       Traceback (most recent call last)
+Cell In[6], line 1
+----> 1 from foundry_local_sdk import Configuration, FoundryLocalManager
+
+ModuleNotFoundError: No module named 'foundry_local_sdk'
+
+The problem is now straightforward: your notebook's MLOps environment still has the old package installed, despite the newer Foundry CLI being installed.
+
+Microsoft's current Python SDK does use from foundry_local_sdk import ..., and pip install foundry-local-sdk is the correct package.
+
+Let's fix the environment directly.
+
+1. Run this inside the Jupyter notebook
+
+Don't use pip by itself. Use the exact Python executable backing your notebook:
+
+import sys
+print(sys.executable)
+
+You should see something like:
+
+C:\Users\DELL\.conda\envs\MLOps\python.exe
+
+Now run:
+
+import sys
+!{sys.executable} -m pip uninstall -y foundry-local-sdk foundry-local
+!{sys.executable} -m pip install --upgrade foundry-local-sdk
+2. Verify what actually got installed
+
+Run:
+
+import sys
+!{sys.executable} -m pip show foundry-local-sdk
+
+Pay attention to Location:.
+
+It should be something like:
+
+C:\Users\DELL\.conda\envs\MLOps\Lib\site-packages
+
+Then run:
+
+import sys
+!{sys.executable} -m pip list | findstr foundry
+
+You should see the current SDK package.
+
+3. Restart the Jupyter kernel
+
+In VS Code:
+
+Ctrl + Shift + P → Jupyter: Restart Kernel
+
+Then run only:
+
+from foundry_local_sdk import Configuration, FoundryLocalManager
+
+print("Import successful")
+If it STILL says ModuleNotFoundError
+
+Run this single diagnostic cell:
+
+import sys
+import subprocess
+
+print("Python executable:")
+print(sys.executable)
+
+print("\nPython version:")
+print(sys.version)
+
+print("\nFoundry packages:")
+subprocess.run([
+    sys.executable, "-m", "pip", "list"
+], check=False)
+
+Paste the output here.
+
+One important thing
+
+Your Foundry CLI 0.10.3 is actually the right generation for the current SDK. The current Foundry Local architecture has moved away from the old service-based CLI; the current CLI uses commands such as:
+
+foundry server
+foundry model
+foundry run
+foundry transcribe
+
+and the current Python SDK uses foundry_local_sdk.
+
+So don't use this anymore:
+
+from foundry_local import FoundryLocalManager
+
+manager = FoundryLocalManager()
+manager.start_service()
+
+That was the legacy SDK path.
+
+Once the import works, we can use the current API to find/download Nemotron ASR. The current SDK supports model catalog management and audio/transcription functionality.
+
+How can i easily copy cells and their output (all at once) of an ipynb
+
+If you're using VS Code with a .ipynb notebook, the easiest options are:
+
+Option 1 — Copy the entire notebook with outputs
+
+In VS Code:
+
+Open the .ipynb.
+Click the ... (More Actions) in the notebook toolbar.
+Choose Export → HTML.
+Open the exported .html file in your browser.
+Press Ctrl+A → Ctrl+C.
+
+This copies the cells + their rendered outputs together, and you can paste them into ChatGPT, Word, etc.
+
+Option 2 — Copy as Markdown ⭐
+
+If you want to send the notebook to me, this is usually better.
+
+In VS Code's notebook:
+
+... → Export → Markdown
+
+This gives you a .md file containing the code cells and outputs.
+
+You can then upload the .md file here, and I can read the whole thing.
+
+Option 3 — If you specifically want plain text
+
+You can also use Jupyter's command line:
+
+jupyter nbconvert --to markdown your_notebook.ipynb
+
+This produces:
+
+your_notebook.md
+
+with the code and most textual outputs preserved.
+
+For your current Foundry Local debugging, I'd recommend Option 2 — export the notebook to Markdown and upload it here. That will let me see the sequence of commands, outputs, and errors rather than you having to copy them cell-by-cell.
