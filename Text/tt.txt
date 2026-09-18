@@ -1,7 +1,0 @@
-C:\Users\DELL\AppData\Roaming\Python\Python311\site-packages\foundry_local_sdk\_native\_cffi_bindings.pyd True 36864
-onnxruntime: MISSING (DLL load failed while importing onnxruntime_pybind11_state: A dynamic link library (DLL) initialization routine failed.)
-onnxruntime_genai_core: OK (C:\Users\DELL\AppData\Roaming\Python\Python311\site-packages\onnxruntime_genai_core)
-added c:\tools\Anaconda3\Library\bin
-added C:\Users\DELL\AppData\Roaming\Python\Python311\site-packages\onnxruntime_genai_core
-added C:\Users\DELL\AppData\Roaming\Python\Python311\site-packages\foundry_local_sdk\_native
-STILL FAILING: Could not find module 'C:\Users\DELL\AppData\Roaming\Python\Python311\site-packages\foundry_local_sdk\_native\_cffi_bindings.pyd' (or one of its dependencies). Try using the full path with constructor syntax.
