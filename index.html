@@ -78,8 +78,10 @@
   .tr:first-child{border-top:0}
   .tr.th{color:var(--muted); font-size:12px; text-transform:uppercase; letter-spacing:.08em; background:#0f1527}
   .tr:not(.th):hover{background:#161d33}
-  .name{display:flex; align-items:center; gap:12px; min-width:0}
+  .name{display:flex; align-items:center; gap:10px; min-width:0}
   .name span.t{overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+  .name span.t.link{cursor:pointer}
+  .name span.t.link:hover{text-decoration:underline; text-decoration-color:var(--muted)}
   .chip{
     flex:none; width:40px; height:40px; border-radius:11px; display:grid; place-items:center;
     font-size:10.5px; font-weight:800; letter-spacing:.03em; color:var(--c);
@@ -101,6 +103,30 @@
   .dl:disabled{opacity:.5; cursor:wait}
   .empty{padding:44px 20px; text-align:center; color:var(--muted)}
 
+  /* ---------- txt preview dropdown ---------- */
+  .tog, .tog-ph{flex:none; width:26px; height:26px}
+  .tog{
+    display:grid; place-items:center; cursor:pointer; padding:0;
+    background:transparent; border:1px solid var(--line); border-radius:8px; color:var(--muted); font-size:12px;
+    transition:transform .15s, color .15s, border-color .15s;
+  }
+  .tog:hover{color:var(--text); border-color:#34456a}
+  .tog.open{transform:rotate(90deg); color:var(--accent); border-color:var(--accent)}
+  .preview{grid-column:1 / -1; margin:2px 0 4px 36px; min-width:0}
+  .pv-bar{display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom:8px; flex-wrap:wrap}
+  .pv-btns{display:flex; gap:8px}
+  .mini{
+    cursor:pointer; background:transparent; color:var(--text); border:1px solid var(--line);
+    border-radius:9px; padding:5px 11px; font:inherit; font-size:12.5px; font-weight:600;
+  }
+  .mini:hover{border-color:var(--accent); color:var(--accent)}
+  .mini:disabled{opacity:.5; cursor:wait}
+  pre.pv{
+    margin:0; background:#0d1222; border:1px solid var(--line); border-radius:12px; padding:12px 14px;
+    font:13px/1.55 ui-monospace,Menlo,Consolas,monospace; color:#d6dcef;
+    white-space:pre-wrap; word-break:break-word; max-height:280px; overflow:auto;
+  }
+
   .cat-doc{--c:#ff7a8a} .cat-text{--c:#6ec1ff} .cat-sheet{--c:#3ddc97} .cat-image{--c:#ffb86b}
   .cat-audio{--c:#c58bff} .cat-video{--c:#ff8bd1} .cat-archive{--c:#f4d35e} .cat-code{--c:#5eead4} .cat-other{--c:#98a2b8}
 
@@ -115,9 +141,9 @@
   dialog{background:var(--panel); color:var(--text); border:1px solid var(--line); border-radius:18px; padding:22px; width:min(460px,92vw)}
   dialog::backdrop{background:rgba(5,8,16,.7)}
   dialog h2{margin:0 0 4px}
-  dialog label{display:block; margin:12px 0 4px; font-size:13px; color:var(--muted)}
+  dialog label{display:block; margin:14px 0 4px; font-size:13px; color:var(--muted)}
   dialog .hint{font-size:12.5px; color:var(--muted); margin:10px 0 0}
-  dialog .actions{display:flex; gap:10px; justify-content:flex-end; margin-top:18px}
+  dialog .actions{display:flex; gap:10px; justify-content:flex-end; margin-top:18px; flex-wrap:wrap}
 
   @media (max-width:820px){
     .hero{grid-template-columns:1fr}
@@ -126,6 +152,7 @@
     .tr .c-type,.tr .c-size,.tr .c-date{grid-column:1}
     .tr .c-dl{grid-column:2; grid-row:1 / span 3; align-self:center}
     .tr .c-size{display:none}
+    .preview{margin-left:0}
   }
 </style>
 </head>
@@ -134,7 +161,7 @@
 
   <header>
     <h1><span class="logo">📁</span> My Files</h1>
-    <button class="icon-btn" id="settingsBtn">⚙ Settings</button>
+    <button class="icon-btn" id="lockBtn">🔒 Unlock uploads</button>
   </header>
 
   <!-- TOP THIRD: left = paste text, right = upload file -->
@@ -171,22 +198,16 @@
 
 <div id="toast"></div>
 
-<dialog id="settings">
-  <h2>Connect to GitHub</h2>
-  <div class="muted">Stored only in this browser.</div>
-  <label for="cOwner">Repo owner (your username or org)</label>
-  <input type="text" id="cOwner" placeholder="octocat">
-  <label for="cRepo">Repository name</label>
-  <input type="text" id="cRepo" placeholder="my-repo">
-  <label for="cBranch">Branch (leave blank for the repo’s default)</label>
-  <input type="text" id="cBranch" placeholder="main">
-  <label for="cToken">Personal access token</label>
+<dialog id="tokenDlg">
+  <h2>Unlock uploads</h2>
+  <div class="muted">Viewing and downloading never need this. Paste your GitHub token to upload; it stays in this browser only.</div>
+  <label for="cToken" id="cTokenLabel">Personal access token</label>
   <input type="password" id="cToken" placeholder="github_pat_…" autocomplete="off">
-  <div class="hint">Use a fine-grained token limited to this one repo with <b>Contents: Read and write</b>. Never paste the token into the HTML file itself.</div>
+  <div class="hint">Fine-grained token for the <b>Transfer</b> repo with <b>Contents: Read and write</b>.</div>
   <div class="actions">
-    <button class="btn ghost" id="cClear">Disconnect</button>
+    <button class="btn ghost" id="cRemove" hidden>Remove token</button>
     <button class="btn ghost" id="cCancel">Cancel</button>
-    <button class="btn" id="cSave">Save &amp; connect</button>
+    <button class="btn" id="cSave">Unlock</button>
   </div>
 </dialog>
 
@@ -194,10 +215,17 @@
 (() => {
   'use strict';
 
-  /* ================= CONFIG ================= */
+  /* ================= CONFIG (hardcoded) ================= */
+  const OWNER  = 'bullseye268';
+  const REPO   = 'Transfer';
+  const BRANCH = 'main';
   const FOLDER = 'My Files';             // folder inside the repo
-  const MAX_BYTES = 100 * 1024 * 1024;   // GitHub contents API limit
-  const CFG_KEY = 'ghfiles.cfg', DATE_KEY = 'ghfiles.dates';
+
+  const MAX_BYTES     = 100 * 1024 * 1024;   // GitHub contents API limit
+  const PREVIEW_LINES = 10;
+  const PREVIEW_BYTES = 64 * 1024;           // read at most this much for a preview
+  const COPY_MAX      = 5 * 1024 * 1024;     // "Copy full text" limit
+  const CFG_KEY = 'ghfiles.cfg', DATE_KEY = 'ghfiles.dates';   // same keys as before: saved token keeps working
 
   const $ = id => document.getElementById(id);
   const store = {
@@ -206,14 +234,17 @@
     del(k){ try { localStorage.removeItem(k); } catch {} }
   };
 
-  let cfg = store.get(CFG_KEY);
+  let token = ((store.get(CFG_KEY) || {}).token || '').trim();   // only needed for uploading
   let files = [];
   let busy = false;
+  let pendingAction = null;              // what to resume after the token is entered
+  const expanded = new Set();            // names of txt files whose preview is open
+  const previews = {};                   // sha -> {state, lines, total, partial, full, msg}
 
   /* ================= FILE TYPES ================= */
   const CATS = {
     doc:    ['pdf','doc','docx','odt','rtf','pages','ppt','pptx','key','epub'],
-    text:   ['txt','md','log','rtf'],
+    text:   ['txt','md','log'],
     sheet:  ['xls','xlsx','csv','tsv','ods','numbers'],
     image:  ['png','jpg','jpeg','gif','webp','svg','bmp','heic','ico','tif','tiff','avif'],
     audio:  ['mp3','wav','flac','m4a','ogg','aac'],
@@ -229,6 +260,7 @@
     for (const [c, list] of Object.entries(CATS)) { if (list.includes(ext)) { cat = c; break; } }
     return { ext: ext ? ext.toUpperCase() : 'FILE', cat };
   }
+  const isTxt = name => /\.txt$/i.test(name);
 
   /* ================= HELPERS ================= */
   const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -251,51 +283,68 @@
     return btoa(bin);
   }
 
+  async function copyText(text) {
+    try { await navigator.clipboard.writeText(text); return true; } catch {}
+    try {
+      const ta = document.createElement('textarea');
+      ta.value = text; ta.style.cssText = 'position:fixed;left:-9999px;top:0';
+      document.body.appendChild(ta); ta.select();
+      const ok = document.execCommand('copy'); ta.remove(); return ok;
+    } catch { return false; }
+  }
+
   /* ================= GITHUB API ================= */
-  const configured = () => cfg && cfg.owner && cfg.repo && cfg.token && cfg.branch;
-  const repoBase = () => `/repos/${encodeURIComponent(cfg.owner)}/${encodeURIComponent(cfg.repo)}`;
-  function gh(path, opts = {}) {
-    return fetch('https://api.github.com' + path, {
+  const REPO_PATH = `/repos/${OWNER}/${REPO}`;
+  // Sends the token when we have one (higher rate limit). If a saved token has gone bad,
+  // read requests quietly retry without it so the public view keeps working.
+  async function gh(path, opts = {}) {
+    const method = (opts.method || 'GET').toUpperCase();
+    const send = useToken => fetch('https://api.github.com' + path, {
       cache: 'no-store',
       ...opts,
       headers: {
         'Accept': 'application/vnd.github+json',
-        'Authorization': 'Bearer ' + cfg.token,
         'X-GitHub-Api-Version': '2022-11-28',
+        ...(useToken && token ? { 'Authorization': 'Bearer ' + token } : {}),
         ...(opts.headers || {})
       }
     });
+    let r = await send(true);
+    if (r.status === 401 && method === 'GET' && token) r = await send(false);
+    return r;
   }
   async function apiError(r){
-    let m = ''; try { m = (await r.json()).message; } catch {}
-    if (r.status === 401) return 'GitHub rejected the token (401). Check it in Settings.';
+    let m = ''; try { m = (await r.json()).message || ''; } catch {}
+    if ((r.status === 403 || r.status === 429) && /rate limit/i.test(m))
+      return 'GitHub’s request limit was reached. Wait a few minutes and refresh' + (token ? '.' : ' (unlocking uploads with your token raises the limit).');
+    if (r.status === 401) return 'GitHub rejected the token (401). Click the lock button to enter it again.';
     if (r.status === 403) return m || 'Access denied (403). Does the token have Contents: Read and write?';
     return m || ('GitHub error ' + r.status);
   }
 
   /* ---- list + dates ---- */
   async function refresh() {
-    if (!configured()) { openSettings(); return; }
     $('status').textContent = 'Loading…';
     try {
-      const r = await gh(`${repoBase()}/contents/${encPath(FOLDER)}?ref=${encodeURIComponent(cfg.branch)}`);
+      const r = await gh(`${REPO_PATH}/contents/${encPath(FOLDER)}?ref=${encodeURIComponent(BRANCH)}`);
       if (r.status === 404) {
-        files = []; render();
-        $('status').textContent = '';
-        $('table').innerHTML = `<div class="empty">The “${esc(FOLDER)}” folder doesn’t exist yet. It will be created with your first upload.<br><span class="muted">(If that’s unexpected, double-check owner / repo / branch in Settings.)</span></div>`;
+        files = []; $('status').textContent = '';
+        $('table').innerHTML = `<div class="empty">No files yet. The “${esc(FOLDER)}” folder is created with the first upload.</div>`;
         return;
       }
       if (!r.ok) throw new Error(await apiError(r));
       const data = await r.json();
       const cache = store.get(DATE_KEY) || {};
-      files = data.filter(x => x.type === 'file' && x.name !== '.gitkeep')
-                  .map(x => ({ name: x.name, size: x.size, sha: x.sha, date: cache[x.sha] || null }));
+      files = (Array.isArray(data) ? data : [])
+        .filter(x => x.type === 'file' && x.name !== '.gitkeep')
+        .map(x => ({ name: x.name, size: x.size, sha: x.sha, url: x.download_url, date: cache[x.sha] || null }));
       render();
       $('status').textContent = '';
+      files.forEach(f => { if (expanded.has(f.name)) loadPreview(f); });
       loadDates();
     } catch (e) {
       $('status').textContent = '';
-      toast(e.message, 'err');
+      toast(e.message || 'Could not load files.', 'err');
     }
   }
 
@@ -308,7 +357,7 @@
       while (i < todo.length) {
         const f = todo[i++];
         try {
-          const r = await gh(`${repoBase()}/commits?path=${encodeURIComponent(FOLDER + '/' + f.name)}&sha=${encodeURIComponent(cfg.branch)}&per_page=1`);
+          const r = await gh(`${REPO_PATH}/commits?path=${encodeURIComponent(FOLDER + '/' + f.name)}&sha=${encodeURIComponent(BRANCH)}&per_page=1`);
           if (!r.ok) continue;
           const j = await r.json();
           const d = j[0] && j[0].commit && j[0].commit.committer && j[0].commit.committer.date;
@@ -320,18 +369,117 @@
     render();
   }
 
-  /* ---- upload ---- */
+  /* ---- reading file contents (raw host: public, not subject to the API rate limit) ---- */
+  const rawUrl = f => f.url ? f.url + (f.url.includes('?') ? '&' : '?') + 'v=' + f.sha : null;
+
+  async function fetchBlob(f) {
+    const u = rawUrl(f);
+    if (u) { try { const r = await fetch(u, { cache: 'no-store' }); if (r.ok) return await r.blob(); } catch {} }
+    const r = await gh(`${REPO_PATH}/contents/${encPath(FOLDER + '/' + f.name)}?ref=${encodeURIComponent(BRANCH)}`,
+                       { headers: { 'Accept': 'application/vnd.github.raw+json' } });
+    if (!r.ok) throw new Error(await apiError(r));
+    return await r.blob();
+  }
+
+  async function readLimited(resp, limit) {
+    const reader = resp.body.getReader(); const chunks = []; let got = 0;
+    for (;;) {
+      const { done, value } = await reader.read();
+      if (done) break;
+      chunks.push(value); got += value.length;
+      if (got >= limit) { reader.cancel(); break; }
+    }
+    const all = new Uint8Array(got); let o = 0;
+    for (const c of chunks) { all.set(c, o); o += c.length; }
+    return new TextDecoder('utf-8').decode(all);
+  }
+
+  /* ---- txt preview ---- */
+  async function loadPreview(f) {
+    const cur = previews[f.sha];
+    if (cur && cur.state !== 'err') return;
+    previews[f.sha] = { state: 'loading' };
+    render();
+    try {
+      const u = rawUrl(f);
+      if (!u) throw new Error('No download link for this file.');
+      const partial = f.size > PREVIEW_BYTES;
+      const resp = await fetch(u, { cache: 'no-store', headers: partial ? { 'Range': `bytes=0-${PREVIEW_BYTES - 1}` } : {} });
+      if (!resp.ok) throw new Error('Could not load preview (' + resp.status + ').');
+      const text = partial ? await readLimited(resp, PREVIEW_BYTES) : await resp.text();
+      let lines = text.split(/\r?\n/);
+      if (!partial && lines.length && lines[lines.length - 1] === '') lines.pop();
+      if (partial && lines.length > 1) lines.pop();            // last line may be cut off
+      previews[f.sha] = {
+        state: 'ok', partial,
+        lines: lines.slice(0, PREVIEW_LINES),
+        total: partial ? null : lines.length,
+        full: partial ? null : text
+      };
+    } catch (e) {
+      previews[f.sha] = { state: 'err', msg: e.message || 'Could not load preview.' };
+    }
+    render();
+  }
+
+  function togglePreview(name) {
+    const f = files.find(x => x.name === name); if (!f) return;
+    if (expanded.has(name)) expanded.delete(name);
+    else { expanded.add(name); if (previews[f.sha] && previews[f.sha].state === 'err') delete previews[f.sha]; loadPreview(f); }
+    render();
+  }
+
+  async function flash(btn, label, ms = 1400) {
+    const old = btn.dataset.label || btn.textContent;
+    btn.dataset.label = old; btn.textContent = label;
+    setTimeout(() => { btn.textContent = old; }, ms);
+  }
+
+  async function copyPreview(name, btn) {
+    const f = files.find(x => x.name === name); const p = f && previews[f.sha];
+    if (!p || p.state !== 'ok') return;
+    flash(btn, (await copyText(p.lines.join('\n'))) ? 'Copied ✓' : 'Copy failed');
+  }
+
+  async function copyFull(name, btn) {
+    const f = files.find(x => x.name === name); if (!f) return;
+    if (f.size > COPY_MAX) return toast('File is too large to copy (over 5 MB). Use Download instead.', 'err');
+    const p = previews[f.sha];
+    btn.disabled = true;
+    try {
+      const text = (p && p.full != null) ? p.full : await (await fetchBlob(f)).text();
+      flash(btn, (await copyText(text)) ? 'Copied ✓' : 'Copy failed');
+    } catch (e) { toast(e.message || 'Could not copy.', 'err'); }
+    btn.disabled = false;
+  }
+
+  /* ---- download ---- */
+  async function download(name, btn) {
+    const f = files.find(x => x.name === name); if (!f) return;
+    btn.disabled = true; const old = btn.innerHTML; btn.textContent = '…';
+    try {
+      const blob = await fetchBlob(f);
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a'); a.href = url; a.download = name;
+      document.body.appendChild(a); a.click(); a.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 4000);
+    } catch (e) { toast(e.message || 'Download failed.', 'err'); }
+    btn.innerHTML = old; btn.disabled = false;
+  }
+
+  /* ---- upload (needs token) ---- */
   async function putFile(name, b64) {
     const existing = files.find(f => f.name === name);
     if (existing && !confirm(`“${name}” already exists in ${FOLDER}. Replace it?`)) return false;
-    const body = { message: `Upload ${name}`, content: b64, branch: cfg.branch };
+    const body = { message: `Upload ${name}`, content: b64, branch: BRANCH };
     if (existing) body.sha = existing.sha;
-    const r = await gh(`${repoBase()}/contents/${encPath(FOLDER + '/' + name)}`, {
+    const r = await gh(`${REPO_PATH}/contents/${encPath(FOLDER + '/' + name)}`, {
       method: 'PUT', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body)
     });
     if (!r.ok) {
-      const msg = await apiError(r);
-      throw new Error(r.status === 422 ? 'That file changed on GitHub. Refresh and try again.' : msg);
+      if (r.status === 409 || r.status === 422) throw new Error('That file changed on GitHub. Refresh and try again.');
+      if (r.status === 404) throw new Error('GitHub says not found (404). The token probably doesn’t have write access to this repo.');
+      throw new Error(await apiError(r));
     }
     const j = await r.json();
     if (j.content && j.commit) {            // we know the upload date immediately
@@ -350,9 +498,9 @@
   }
 
   async function uploadText() {
-    if (!configured()) return openSettings();
     const text = $('pasteBox').value;
     if (!text.trim() || busy) return;
+    if (!token) { pendingAction = { type: 'text' }; return openTokenDialog(); }
     let name = cleanName($('textName').value) || `note-${stamp()}`;
     if (!/\.txt$/i.test(name)) name += '.txt';
     setBusy(true, 'text');
@@ -367,7 +515,7 @@
 
   async function uploadFile(file) {
     if (!file || busy) return;
-    if (!configured()) return openSettings();
+    if (!token) { pendingAction = { type: 'file', file }; return openTokenDialog(); }
     if (file.size > MAX_BYTES) return toast('That file is over 100 MB, which GitHub won’t accept here.', 'err');
     const name = cleanName(file.name) || `file-${stamp()}`;
     setBusy(true, 'file');
@@ -380,23 +528,26 @@
     setBusy(false);
   }
 
-  /* ---- download (works for private repos too) ---- */
-  async function download(name, btn) {
-    btn.disabled = true; const old = btn.innerHTML; btn.textContent = '…';
-    try {
-      const r = await gh(`${repoBase()}/contents/${encPath(FOLDER + '/' + name)}?ref=${encodeURIComponent(cfg.branch)}`,
-                         { headers: { 'Accept': 'application/vnd.github.raw+json' } });
-      if (!r.ok) throw new Error(await apiError(r));
-      const blob = await r.blob();
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a'); a.href = url; a.download = name;
-      document.body.appendChild(a); a.click(); a.remove();
-      setTimeout(() => URL.revokeObjectURL(url), 4000);
-    } catch (e) { toast(e.message, 'err'); }
-    btn.innerHTML = old; btn.disabled = false;
+  /* ================= RENDER ================= */
+  function previewHtml(f) {
+    const p = previews[f.sha];
+    if (!p || p.state === 'loading') return `<div class="preview"><div class="muted">Loading preview…</div></div>`;
+    if (p.state === 'err') return `<div class="preview"><div class="muted">${esc(p.msg)}</div></div>`;
+    const shown = p.lines.length;
+    const info = shown === 0 ? 'Empty file'
+      : p.partial ? `First ${shown} lines`
+      : p.total <= PREVIEW_LINES ? `All ${p.total} line${p.total === 1 ? '' : 's'}`
+      : `First ${shown} of ${p.total} lines`;
+    return `<div class="preview">
+      <div class="pv-bar"><span class="muted">${info}</span>
+        <span class="pv-btns">
+          <button class="mini" data-act="copy-preview" data-name="${esc(f.name)}"${shown ? '' : ' disabled'}>Copy preview</button>
+          <button class="mini" data-act="copy-full" data-name="${esc(f.name)}">Copy full text</button>
+        </span></div>
+      <pre class="pv">${shown ? esc(p.lines.join('\n')) : '(empty)'}</pre>
+    </div>`;
   }
 
-  /* ================= RENDER ================= */
   function render() {
     const tbl = $('table');
     if (!files.length) { tbl.innerHTML = `<div class="empty">No files yet. Upload one above 👆</div>`; return; }
@@ -404,13 +555,17 @@
     tbl.innerHTML = `
       <div class="tr th"><div>Name</div><div>Type</div><div>Size</div><div>Uploaded</div><div></div></div>` +
       sorted.map(f => {
-        const t = typeOf(f.name);
+        const t = typeOf(f.name), txt = isTxt(f.name), open = txt && expanded.has(f.name);
+        const tog = txt
+          ? `<button class="tog${open ? ' open' : ''}" data-act="toggle" data-name="${esc(f.name)}" aria-expanded="${open}" title="${open ? 'Hide' : 'Show'} preview">▸</button>`
+          : `<span class="tog-ph"></span>`;
         return `<div class="tr cat-${t.cat}">
-          <div class="name c-name"><div class="chip">${esc(t.ext.slice(0,4))}</div><span class="t" title="${esc(f.name)}">${esc(f.name)}</span></div>
+          <div class="name c-name">${tog}<div class="chip">${esc(t.ext.slice(0,4))}</div><span class="t${txt ? ' link' : ''}"${txt ? ` data-act="toggle" data-name="${esc(f.name)}"` : ''} title="${esc(f.name)}">${esc(f.name)}</span></div>
           <div class="c-type"><span class="badge">${esc(t.ext)} · ${CAT_LABEL[t.cat]}</span></div>
           <div class="muted c-size">${fmtSize(f.size)}</div>
           <div class="muted c-date">${fmtDate(f.date)}</div>
-          <div class="c-dl"><button class="dl" data-name="${esc(f.name)}">⬇ Download</button></div>
+          <div class="c-dl"><button class="dl" data-act="download" data-name="${esc(f.name)}">⬇ Download</button></div>
+          ${open ? previewHtml(f) : ''}
         </div>`;
       }).join('');
   }
@@ -425,7 +580,10 @@
   $('pasteBox').addEventListener('keydown', e => { if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') uploadText(); });
   $('uploadTextBtn').addEventListener('click', uploadText);
 
-  $('pickBtn').addEventListener('click', () => $('fileInput').click());
+  $('pickBtn').addEventListener('click', () => {
+    if (!token) { pendingAction = { type: 'pick' }; return openTokenDialog(); }
+    $('fileInput').click();
+  });
   $('fileInput').addEventListener('change', e => uploadFile(e.target.files[0]));
 
   const drop = $('drop');
@@ -434,39 +592,69 @@
   drop.addEventListener('drop', e => { const f = e.dataTransfer.files[0]; if (f) uploadFile(f); });
 
   $('table').addEventListener('click', e => {
-    const b = e.target.closest('.dl'); if (b) download(b.dataset.name, b);
+    const el = e.target.closest('[data-act]'); if (!el) return;
+    const name = el.dataset.name;
+    switch (el.dataset.act) {
+      case 'toggle':       togglePreview(name); break;
+      case 'download':     download(name, el); break;
+      case 'copy-preview': copyPreview(name, el); break;
+      case 'copy-full':    copyFull(name, el); break;
+    }
   });
   $('refreshBtn').addEventListener('click', refresh);
 
-  /* ---- settings dialog ---- */
-  const dlg = $('settings');
-  function openSettings() {
-    $('cOwner').value = cfg?.owner || ''; $('cRepo').value = cfg?.repo || '';
-    $('cBranch').value = cfg?.branch || ''; $('cToken').value = cfg?.token || '';
+  /* ---- token dialog (only shown when uploading or via the lock button) ---- */
+  const dlg = $('tokenDlg');
+  function updateLockBtn() { $('lockBtn').textContent = token ? '🔓 Uploads unlocked' : '🔒 Unlock uploads'; }
+  function openTokenDialog() {
+    $('cToken').value = '';
+    $('cTokenLabel').textContent = token ? 'Replace token (optional)' : 'Personal access token';
+    $('cToken').placeholder = token ? 'A token is already saved' : 'github_pat_…';
+    $('cRemove').hidden = !token;
+    $('cSave').textContent = token ? 'Save' : 'Unlock';
     if (!dlg.open) dlg.showModal();
+    $('cToken').focus();
   }
-  $('settingsBtn').addEventListener('click', openSettings);
-  $('cCancel').addEventListener('click', () => dlg.close());
-  $('cClear').addEventListener('click', () => {
-    store.del(CFG_KEY); store.del(DATE_KEY); cfg = null; files = []; render(); dlg.close(); toast('Disconnected');
+  $('lockBtn').addEventListener('click', () => { pendingAction = null; openTokenDialog(); });
+  $('cCancel').addEventListener('click', () => { pendingAction = null; dlg.close(); });
+  dlg.addEventListener('cancel', () => { pendingAction = null; });
+  $('cRemove').addEventListener('click', () => {
+    store.del(CFG_KEY); token = ''; pendingAction = null; updateLockBtn(); dlg.close(); toast('Token removed from this browser');
   });
+  $('cToken').addEventListener('keydown', e => { if (e.key === 'Enter') $('cSave').click(); });
+
   $('cSave').addEventListener('click', async () => {
-    const owner = $('cOwner').value.trim(), repo = $('cRepo').value.trim(), token = $('cToken').value.trim();
-    let branch = $('cBranch').value.trim();
-    if (!owner || !repo || !token) return toast('Owner, repo and token are required.', 'err');
-    cfg = { owner, repo, token, branch: branch || 'main' };
+    const t = $('cToken').value.trim();
+    if (!t) {
+      if (token) { dlg.close(); return; }
+      return toast('Paste your token first.', 'err');
+    }
+    $('cSave').disabled = true;
     try {
-      const r = await gh(repoBase());
+      const r = await fetch('https://api.github.com' + REPO_PATH, {
+        cache: 'no-store',
+        headers: { 'Accept': 'application/vnd.github+json', 'X-GitHub-Api-Version': '2022-11-28', 'Authorization': 'Bearer ' + t }
+      });
+      if (r.status === 401) throw new Error('GitHub rejected that token. Check that you copied all of it.');
+      if (r.status === 404) throw new Error('That token can’t see ' + OWNER + '/' + REPO + '.');
       if (!r.ok) throw new Error(await apiError(r));
       const info = await r.json();
-      cfg.branch = branch || info.default_branch;
-    } catch (e) { cfg = store.get(CFG_KEY); return toast(e.message, 'err'); }
-    store.set(CFG_KEY, cfg); dlg.close(); toast('Connected', 'ok'); refresh();
+      if (info.permissions && info.permissions.push === false)
+        throw new Error('That token can read the repo but not write to it. It needs Contents: Read and write.');
+    } catch (e) { $('cSave').disabled = false; return toast(e.message, 'err'); }
+    $('cSave').disabled = false;
+    token = t; store.set(CFG_KEY, { token });
+    updateLockBtn(); dlg.close(); toast('Uploads unlocked', 'ok');
+
+    const p = pendingAction; pendingAction = null;     // pick up where the user left off
+    if (p && p.type === 'text') uploadText();
+    else if (p && p.type === 'file') uploadFile(p.file);
+    else if (p && p.type === 'pick') $('fileInput').click();
   });
 
   /* ================= INIT ================= */
-  updateCount(); render();
-  if (configured()) refresh(); else openSettings();
+  updateCount(); updateLockBtn(); render();
+  refresh();
 })();
 </script>
 </body>
