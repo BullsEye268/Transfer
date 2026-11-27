@@ -1,0 +1,1370 @@
+
+
+
+HDFC BANK Ltd.                                     Page No .:   1                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+18/05/26  UPI-AUTOPAY-SPOTIFY INDIA PVT LT-SPOTIFY  0000103316961303  18/05/26             119.00                              15,666.06   
+          .BDSI@HDFCBANK-HDFC0MERUPI-103316961303-                                                                                          
+          EXECUTION TEST                                                                                                                    
+28/05/26  UPI-RATNADEEP-RATNADEEPVIKRAMPURI@AXL-UT  0000207117239716  28/05/26              80.00                              15,586.06   
+          IB0AXLUPI-207117239716-PAYMENT FOR 15960                                                                                          
+          8                                                                                                                                 
+29/05/26  UPI-LAXMI PRASANNA ENTER-PAYTMQR6JASWK@P  0000307051130918  29/05/26             132.00                              15,454.06   
+          TYS-YESB0PTMUPI-307051130918-SENT USING                                                                                           
+          PAYTM U                                                                                                                           
+31/05/26  UPI-ABC CHARCOAL SHAWARM-PAYTM-81144009@  0000307173304680  31/05/26             169.00                              15,285.06   
+          PTYS-YESB0PTMUPI-307173304680-SENT USING                                                                                          
+          PAYTM U                                                                                                                           
+31/05/26  UPI-MUNSI LUTFAR RAHAMAN-9647624313@YBL-  0000307176738592  31/05/26              10.00                              15,275.06   
+          UBIN0549509-307176738592-SENT USING PAYT                                                                                          
+          M U                                                                                                                               
+01/06/26  UPI-RATNADEEP-RATNADEEPVIKRAMPURI@AXL-UT  0000307226203555  01/06/26              60.00                              15,215.06   
+          IB0AXLUPI-307226203555-PAYMENT FOR 16188                                                                                          
+          6                                                                                                                                 
+01/06/26  UPI-SWIGGY INSTAMART-SWIGGYINSTAMART@ICI  0000207466778008  01/06/26             717.00                              14,498.06   
+          CI-ICIC0DC0099-207466778008-SENT USING P                                                                                          
+          AYTM U                                                                                                                            
+02/06/26  UPI-DOMINOS PIZZA-DOMINOSPIZZA853936.RZP  0000307241117620  02/06/26             191.10                              14,306.96   
+          @RXAXIS-UTIB0000RZP-307241117620-SENT US                                                                                          
+          ING PAYTM U                                                                                                                       
+04/06/26  UPI-GAURAV GAUTAM BHALER-9370158307@YBL-  0000143174501979  04/06/26                              7,261.00           21,567.96   
+          SBIN0011515-143174501979-PAYMENT FROM PH                                                                                          
+          ONE                                                                                                                               
+06/06/26  UPI-SWIGGY LTD-SWIGGYUPI@AXB-UTIB0000100  0000307519888486  06/06/26             307.00                              21,260.96   
+          -307519888486-PAY FOR INTENT                                                                                                      
+07/06/26  UPI-SWIGGY-UPISWIGGY@ICICI-ICIC0DC0099-3  0000307567170548  07/06/26             527.00                              20,733.96   
+          07567170548-SENT USING PAYTM U                                                                                                    
+08/06/26  UPI-MUNIMAKULA  MADHURI-SEVIRARIC@OKSBI-  0000615955436680  08/06/26                             10,000.00           30,733.96   
+          SBIN0020244-615955436680-JUNE POCKET MON                                                                                          
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   2                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          EY                                                                                                                                
+08/06/26  UPI-VISH SUPER MARKET-PAYTMQR6NTRCK@PTYS  0000307643403824  08/06/26              40.00                              30,693.96   
+          -YESB0PTMUPI-307643403824-SENT USING PAY                                                                                          
+          TM U                                                                                                                              
+09/06/26  UPI-ZEPTO-ZEPTO.PAYU@HDFCBANK-HDFC0MERUP  0000307704485014  09/06/26              79.00                              30,614.96   
+          I-307704485014-SENT USING PAYTM U                                                                                                 
+09/06/26  UPI-LAXMI PRASANNA ENTER-PAYTMQR6JASWK@P  0000307725937709  09/06/26              40.00                              30,574.96   
+          TYS-YESB0PTMUPI-307725937709-SENT USING                                                                                           
+          PAYTM U                                                                                                                           
+10/06/26  UPI-ZEPTO-ZEPTOONLINE@YBL-YESB0YBLUPI-20  0000208130189879  10/06/26             338.00                              30,236.96   
+          8130189879-SENT USING PAYTM U                                                                                                     
+10/06/26  UPI-LAXMI PRASANNA ENTER-PAYTMQR6JASWK@P  0000307787725175  10/06/26              55.00                              30,181.96   
+          TYS-YESB0PTMUPI-307787725175-SENT USING                                                                                           
+          PAYTM U                                                                                                                           
+11/06/26  UPI-ZEPTO MARKETPLACE PR-ZEPTO.PAYU@AXIS  0000307794632623  11/06/26             108.00                              30,073.96   
+          BANK-UTIB0000100-307794632623-UPIINTENT                                                                                           
+11/06/26  UPI-ACHYUTHA MUNIMAKULA-WISEPAY@YESBANK-  0000616253556478  11/06/26                             63,135.73           93,209.69   
+          YESB0000001-616253556478-RDA CR TO KYC C                                                                                          
+          OMP                                                                                                                               
+11/06/26  UPI-MUNIMAKULA  MADHURI-SEVIRARIC@OKICIC  0000124558026083  11/06/26          62,000.00                              31,209.69   
+          I-SBIN0020244-124558026083-UPI                                                                                                    
+11/06/26  UPI-ACHYUTHA MUNIMAKULA-WISEPAY@YESBANK-  0000616253561918  11/06/26                              2,196.68           33,406.37   
+          YESB0000001-616253561918-RDA CR TO KYC C                                                                                          
+          OMP                                                                                                                               
+11/06/26  UPI-MUNIMAKULA ACHYUTHA-ACHYUTHAMUNIMAKU  0000124558195723  11/06/26           5,400.00                              28,006.37   
+          LA@OKICICI-ICIC0000069-124558195723-UPI                                                                                           
+11/06/26  ME DC SI 435584XXXXXX8992 ZEE ENTERTAINM  0000616212079217  11/06/26             799.00                              27,207.37   
+          ENT                                                                                                                               
+11/06/26  UPI-SWIGGY INSTAMART-SWIGGYINSTAMART@ICI  0000307853285033  11/06/26             174.00                              27,033.37   
+          CI-ICIC0DC0099-307853285033-SENT USING P                                                                                          
+          AYTM U                                                                                                                            
+12/06/26  UPI-MUNIMAKULA  MADHURI-SEVIRARIC@OKICIC  0000124603696432  12/06/26          10,000.00                              17,033.37   
+          I-SBIN0020244-124603696432-UPI                                                                                                    
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   3                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+13/06/26  UPI-SWIGGY INSTAMART-SWIGGYINSTAMART@ICI  0000307947095998  13/06/26             328.00                              16,705.37   
+          CI-ICIC0DC0099-307947095998-SENT USING P                                                                                          
+          AYTM U                                                                                                                            
+15/06/26  UPI-ZEPTO MARKETPLACE PR-ZEPTO.PAYU@AXIS  0000308074432075  15/06/26             101.00                              16,604.37   
+          BANK-UTIB0000100-308074432075-UPIINTENT                                                                                           
+15/06/26  UPI-MUNIMAKULA  MADHURI-SEVIRARIC@OKSBI-  0000616690259020  15/06/26                             25,000.00           41,604.37   
+          SBIN0020244-616690259020-UPI                                                                                                      
+16/06/26  UPI-ZEPTO MARKETPLACE PR-ZEPTO.PAYU@AXIS  0000608068614049  16/06/26             105.00                              41,499.37   
+          BANK-UTIB0000100-608068614049-UPIINTENT                                                                                           
+16/06/26  UPI-KADALI ABHILASH-KADALIABHILASH@OKICI  0000308165123999  16/06/26             300.00                              41,199.37   
+          CI-HDFC0007513-308165123999-SENT USING P                                                                                          
+          AYTM U                                                                                                                            
+16/06/26  UPI-NATURALS SECUNDERABA-PAYTMQR28100505  0000208638649404  16/06/26             190.00                              41,009.37   
+          0101PNKSUQTWAOF6@PAYTM-YESB0PTMUPI-20863                                                                                          
+          8649404-NA                                                                                                                        
+17/06/26  UPI-MUNIMAKULA ACHYUTHA-ACHYUTHAMUNIMAKU  0000124857454158  17/06/26          10,000.00                              31,009.37   
+          LA@OKICICI-ICIC0000069-124857454158-UPI                                                                                           
+17/06/26  UPI-ZEPTO MARKETPLACE PR-ZEPTO.PAYU@AXIS  0000208641452677  17/06/26             131.00                              30,878.37   
+          BANK-UTIB0000100-208641452677-UPIINTENT                                                                                           
+17/06/26  UPI-GOIBIBO-GOIBIBOONLINE@YBL-YESB0YBLUP  0000608147094784  17/06/26           1,675.95                              29,202.42   
+          I-608147094784-PAYMENT FOR GBF522                                                                                                 
+17/06/26  UPI-SHUBHAM  ANAPOLLA-7416942447@YBL-SBI  0000308202177821  17/06/26           1,320.00                              27,882.42   
+          N0020087-308202177821-SENT USING PAYTM U                                                                                          
+17/06/26  UPI-VISH SUPER MARKET-PAYTMQR6NTRCK@PTYS  0000308203780818  17/06/26               7.00                              27,875.42   
+          -YESB0PTMUPI-308203780818-SENT USING PAY                                                                                          
+          TM U                                                                                                                              
+17/06/26  UPI-VISH SUPER MARKET-PAYTMQR6NTRCK@PTYS  0000308208047126  17/06/26               2.00                              27,873.42   
+          -YESB0PTMUPI-308208047126-SENT USING PAY                                                                                          
+          TM U                                                                                                                              
+17/06/26  UPI-BATHULA SREESHAILAM-8106123053@KOTAK  0000608176571434  17/06/26              95.00                              27,778.42   
+          811-KKBK0000958-608176571434-SENT USING                                                                                           
+          PAYTM U                                                                                                                           
+17/06/26  UPI-SANGA REDDY BICCHALO-PAYTMQR6GSYOB@P  0000308217774047  17/06/26              40.00                              27,738.42   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   4                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          TYS-YESB0PTMUPI-308217774047-SENT USING                                                                                           
+          PAYTM U                                                                                                                           
+17/06/26  UPI-MR PUNJARI  NARESHNA-Q765180227@YBL-  0000608184345548  17/06/26              55.00                              27,683.42   
+          YESB0YBLUPI-608184345548-SENT USING PAYT                                                                                          
+          M U                                                                                                                               
+18/06/26  UPI-MARAO ENTERPRISES-Q324151122@YBL-YES  0000308237379664  18/06/26             206.00                              27,477.42   
+          B0YBLUPI-308237379664-SENT USING PAYTM U                                                                                          
+18/06/26  IMPS-616934790508-IITM HOSTEL MANAGEMENT  0000616934790508  18/06/26           4,650.00                              22,827.42   
+          TRUST-SBIN-XXXXXXX8463-IMPS TRANSACTION                                                                                           
+18/06/26  UPI-VAJRA CATERING AND H-PAYTMQR1IDRB267  0000608204792941  18/06/26             284.00                              22,543.42   
+          Z9@PAYTM-YESB0PTMUPI-608204792941-NA                                                                                              
+18/06/26  UPI-SWIGGY-SWIGGY232061.RZP@HDFCBANK-HDF  0000308278022642  18/06/26             528.00                              22,015.42   
+          C0MERUPI-308278022642-PAYVIARAZORPAY                                                                                              
+18/06/26  UPI-AUTOPAY-SPOTIFY INDIA PVT LT-SPOTIFY  0000103503394369  18/06/26             119.00                              21,896.42   
+          .BDSI@HDFCBANK-HDFC0MERUPI-103503394369-                                                                                          
+          EXECUTION TEST                                                                                                                    
+19/06/26  UPI-MARAO ENTERPRISES-MARAOENTERPRISES1O  0000208811816320  19/06/26              40.00                              21,856.42   
+          FFLINE@YBL-YESB0YBLUPI-208811816320-PAYM                                                                                          
+          ENT FOR 76WQ54                                                                                                                    
+19/06/26  UPI-RELIANCE JIO INFOCOM-JIO@CITIBANK-CI  0000308305099487  19/06/26              69.00                              21,787.42   
+          TI0RTGSMI-308305099487-JIO20BR000DOQ79YC                                                                                          
+          1                                                                                                                                 
+19/06/26  IMPS P2P 616934790508#18/06/2026-EPR2717  EPR2717049009957  19/06/26               5.90                              21,781.52   
+          049009957                                                                                                                         
+19/06/26  UPI-NESCAFE IIT-Q620561572@YBL-YESB0YBLU  0000608265326573  19/06/26              70.00                              21,711.52   
+          PI-608265326573-SENT USING PAYTM U                                                                                                
+19/06/26  UPI-MARAO ENTERPRISES-MARAOENTERPRISES1O  0000308311635419  19/06/26              40.00                              21,671.52   
+          FFLINE@YBL-YESB0YBLUPI-308311635419-PAYM                                                                                          
+          ENT FOR DWY254                                                                                                                    
+19/06/26  UPI-GOIBIBO-GOIBIBO.PAYU@AXISBANK-UTIB00  0000308323212393  19/06/26             518.70                              21,152.82   
+          00000-308323212393-UPIINTENT                                                                                                      
+19/06/26  UPI-RAJASEKHARMANNEM-Q294881509@YBL-YESB  0000608283561174  19/06/26             300.00                              20,852.82   
+          0YBLUPI-608283561174-SENT USING PAYTM U                                                                                           
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   5                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+20/06/26  UPI-SRI ANNAPOORNA-VYAPAR.173351394583@H  0000208870731357  20/06/26              70.00                              20,782.82   
+          DFCBANK-HDFC0MERUPI-208870731357-SENT US                                                                                          
+          ING PAYTM U                                                                                                                       
+20/06/26  UPI-GURURAJ  K-7483177723@AXL-SBIN000904  0000308869556482  20/06/26              70.00                              20,712.82   
+          7-308869556482-SENT USING PAYTM U                                                                                                 
+20/06/26  UPI-PAULRAJ  C-7353104967-1@NYES-CNRB000  0000308869628494  20/06/26              70.00                              20,642.82   
+          0033-308869628494-SENT USING PAYTM U                                                                                              
+20/06/26  UPI-PAULRAJ  C-7353104967-1@NYES-CNRB000  0000608868523947  20/06/26              15.00                              20,627.82   
+          0033-608868523947-SENT USING PAYTM U                                                                                              
+20/06/26  UPI-SWIGGY INSTAMART-SWIGGYINSTAMARTECOM  0000308878933400  20/06/26             121.00                              20,506.82   
+          @ICICI-ICIC0DC0099-308878933400-SENT USI                                                                                          
+          NG PAYTM U                                                                                                                        
+20/06/26  UPI-SUNDARAJ S-9071252197@YBL-CNRB000003  0000208906244490  20/06/26             145.00                              20,361.82   
+          3-208906244490-SENT USING PAYTM U                                                                                                 
+20/06/26  UPI-MEERA DEVI-7728081356@PTHDFC-BARB0VJ  0000608926510635  20/06/26             100.00                              20,261.82   
+          RAJS-608926510635-SENT FROM PAYTM                                                                                                 
+21/06/26  UPI-UDUPI VEG RESTAURANT-Q998671231@YBL-  0000308950403223  21/06/26              30.00                              20,231.82   
+          YESB0YBLUPI-308950403223-SENT USING PAYT                                                                                          
+          M U                                                                                                                               
+21/06/26  UPI-GOIBIBO-GOIBIBOONLINE@YBL-YESB0YBLUP  0000308957813955  21/06/26           2,217.50                              18,014.32   
+          I-308957813955-PAYMENT FOR G707D0                                                                                                 
+21/06/26  UPI-KOMAL AGRAWALLA-8050022743@IDFCFIRST  0000308962413214  21/06/26             560.00                              17,454.32   
+          -IDFB0040101-308962413214-SENT USING PAY                                                                                          
+          TM U                                                                                                                              
+21/06/26  UPI-MUNIMAKULA  MADHURI-9494519838@PTYES  0000308969247829  21/06/26                             10,000.00           27,454.32   
+          -SBIN0020244-308969247829-SENT FROM PAYT                                                                                          
+          M                                                                                                                                 
+21/06/26  UPI-LAKSHMAN MYAKERI  -7349236574@PTSBI-  0000308973350871  21/06/26             220.00                              27,234.32   
+          SBIN0013486-308973350871-SENT FROM PAYTM                                                                                          
+21/06/26  UPI-ANKARAJU-9972134940@YBL-SBIN0013351-  0000125108825738  21/06/26             186.00                              27,048.32   
+          125108825738-UPI                                                                                                                  
+22/06/26  UPI-EDUNURI RAJU-EDUNURIRAJU2@IBL-UBIN08  0000209035608423  22/06/26             255.00                              26,793.32   
+          15519-209035608423-SENT USING PAYTM U                                                                                             
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   6                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+23/06/26  UPI-ZEPTO MARKETPLACE PR-ZEPTOMARKETPLAC  0000609049714211  23/06/26             101.00                              26,692.32   
+          EPRIVAT-12682647.PAYU@INDUS-INDB0MERCHA-                                                                                          
+          609049714211-UPIINTENT                                                                                                            
+23/06/26  UPI-SWIGGY LTD-SWIGGYUPI@AXB-UTIB0000100  0000309078353253  23/06/26             315.00                              26,377.32   
+          -309078353253-PAY FOR INTENT                                                                                                      
+23/06/26  UPI-SWIGGY-UPISWIGGY@ICICI-ICIC0DC0099-3  0000309078738758  23/06/26             494.00                              25,883.32   
+          09078738758-SENT USING PAYTM U                                                                                                    
+23/06/26  UPI-SWIGGY INSTAMART PRI-INSTAMART.ECOM@  0000609077716683  23/06/26             648.00                              25,235.32   
+          YESPAY-YESB0YESUPI-609077716683-PAY FOR                                                                                           
+          MERCHANT                                                                                                                          
+23/06/26  UPI-SWIGGY INSTAMART-SWIGGYINSTAMARTECOM  0000309083122054  23/06/26              12.00                              25,223.32   
+          @ICICI-ICIC0DC0099-309083122054-SENT USI                                                                                          
+          NG PAYTM U                                                                                                                        
+23/06/26  UPI-SWIGGY INSTAMART PRI-SWIGGYINSTAMART  0000609080362982  23/06/26             148.00                              25,075.32   
+          822362.RZP@RXAXIS-UTIB0000RZP-6090803629                                                                                          
+          82-SENT USING PAYTM U                                                                                                             
+23/06/26  UPI-MR IMRAN BIN HUSSAIN-BAZAZUIMRAN54@O  0000309092193342  23/06/26             565.00                              24,510.32   
+          KICICI-IDIB000M147-309092193342-SENT USI                                                                                          
+          NG PAYTM U                                                                                                                        
+23/06/26  UPI-MC DONALDS-MCDONALDS.27327084@HDFCBA  0000309096263425  23/06/26             246.76                              24,263.56   
+          NK-HDFC0MERUPI-309096263425-SENT USING P                                                                                          
+          AYTM U                                                                                                                            
+23/06/26  UPI-RELIANCE JIO INFOCOM-JIO@CITIBANK-CI  0000309105262088  23/06/26           1,551.00                              22,712.56   
+          TI0RTGSMI-309105262088-JIO20BR000CR38JK5                                                                                          
+          2                                                                                                                                 
+28/06/26  UPI-VALVE CORPORATION-VALVECORPORATIO111  0000209505085646  28/06/26             150.00                              22,562.56   
+          765.RZP@RXAIRTEL-AIRP0000011-20950508564                                                                                          
+          6-VALVECORPORATION                                                                                                                
+01/07/26  INTEREST PAID TILL 30-JUN-2026            000000000000000   30/06/26                                112.00           22,674.56   
+04/07/26  UPI-RATNADEEP-RATNADEEPVIKRAMPURI@AXL-UT  0000309776591195  04/07/26              83.00                              22,591.56   
+          IB0AXLUPI-309776591195-PAYMENT FOR 17768                                                                                          
+          7                                                                                                                                 
+04/07/26  UPI-GIRAMONI  ANJANEYULU-GANJI4378-1@OKA  0000309779376845  04/07/26             770.00                              21,821.56   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   7                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          XIS-CNRB0000033-309779376845-SENT USING                                                                                           
+          PAYTM U                                                                                                                           
+05/07/26  UPI-PRATHAM SUNKAD-SUNKADPRATHAM@OKHDFCB  0000309788019987  05/07/26           2,782.00                              19,039.56   
+          ANK-HDFC0001202-309788019987-SENT USING                                                                                           
+          PAYTM U                                                                                                                           
+05/07/26  UPI-SWIGGY-UPISWIGGY@ICICI-ICIC0DC0099-3  0000309797976098  05/07/26             531.00                              18,508.56   
+          09797976098-SENT USING PAYTM U                                                                                                    
+05/07/26  UPI-1329 LS AND HC DSL A-PAYTM-68970671@  0000125819417797  05/07/26             899.00                              17,609.56   
+          PTYS-YESB0PTMUPI-125819417797-UPI                                                                                                 
+05/07/26  UPI-MUNIMAKULA ACHYUTHA-ACHYUTHAMUNIMAKU  0000655226156765  05/07/26                             10,000.00           27,609.56   
+          LA@OKICICI-ICIC0000069-655226156765-UPI                                                                                           
+05/07/26  UPI-MUNIMAKULA  MADHURI-9494519838@PTYES  0000309836024547  05/07/26                             20,000.00           47,609.56   
+          -SBIN0020244-309836024547-SENT FROM PAYT                                                                                          
+          M                                                                                                                                 
+05/07/26  UPI-ZPAY SOLUTIONS PVT L-99GIFT.PAYU@IND  0000309836369739  05/07/26          18,600.00                              29,009.56   
+          US-INDB0MERCHA-309836369739-UPIINTENT                                                                                             
+05/07/26  UPI-LIFE STYLE INTERNATI-LANDMARKLIFESTY  0000609806502482  05/07/26             199.98                              28,809.58   
+          LE@AXL-UTIB0AXLUPI-609806502482-PAYMENT                                                                                           
+          FOR 178228                                                                                                                        
+05/07/26  UPI-INDIGO-PAYTM-43409491@PTYBL-YESB0PTM  0000210099084119  06/07/26           5,977.00                              22,832.58   
+          UPI-210099084119-PAYMENT FOR UPI AU                                                                                               
+06/07/26  UPI-CHOKAT SHAKUNTALA-PAYTMQR6JH7JP@PTYS  0000609819776495  06/07/26             300.00                              22,532.58   
+          -YESB0PTMUPI-609819776495-SENT USING PAY                                                                                          
+          TM U                                                                                                                              
+06/07/26  UPI-IITM HOSTEL MANAGEME-CCA.171377@ICIC  0000110163188347  06/07/26             600.00                              21,932.58   
+          I-ICIC0DC0099-110163188347-COLLECT-PAY-R                                                                                          
+          EQUES                                                                                                                             
+06/07/26  UPI-MUNIMAKULA ACHYUTHA-ACHYUTHAMUNIMAKU  0000125863474441  06/07/26          15,000.00                               6,932.58   
+          LA@OKICICI-ICIC0000069-125863474441-UPI                                                                                           
+06/07/26  UPI-ZEPTO MARKETPLACE PR-ZEPTO.PAYU@AXIS  0000309902163795  06/07/26             166.00                               6,766.58   
+          BANK-UTIB0003156-309902163795-UPIINTENT                                                                                           
+07/07/26  UPI-LAXMI PRASANNA ENTER-PAYTMQR6JASWK@P  0000309938969890  07/07/26              80.00                               6,686.58   
+          TYS-YESB0PTMUPI-309938969890-SENT USING                                                                                           
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   8                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          PAYTM U                                                                                                                           
+07/07/26  UPI-ZOMATO LIMITED-ZOMATO-ORDER@PTYBL-YE  0000210234916535  07/07/26               1.00                               6,685.58   
+          SB0PTMUPI-210234916535-ZOMATO PAYMENT                                                                                             
+07/07/26  UPI-SWIGGY LTD-SWIGGYUPI@AXB-UTIB0000100  0000309951687646  07/07/26             779.00                               5,906.58   
+          -309951687646-PAY FOR INTENT                                                                                                      
+08/07/26  UPI-GREEN TRENDS-GREENTRENDS.63455898@HD  0000309988512500  08/07/26             399.00                               5,507.58   
+          FCBANK-HDFC0MERUPI-309988512500-SENT USI                                                                                          
+          NG PAYTM U                                                                                                                        
+08/07/26  UPI-ZEPTO-ZEPTO.PAYU@HDFCBANK-HDFC0MERUP  0000609949969462  08/07/26              97.00                               5,410.58   
+          I-609949969462-SENT USING PAYTM U                                                                                                 
+08/07/26  UPI-MUNIMAKULA  MADHURI-SEVIRARIC@OKICIC  0000655514948788  08/07/26                             10,000.00           15,410.58   
+          I-SBIN0020244-655514948788-UPI                                                                                                    
+08/07/26  UPI-LIFE STYLE INTERNATI-LANDMARKLIFESTY  0000309999979959  08/07/26             311.00                              15,099.58   
+          LE@AXL-UTIB0AXLUPI-309999979959-PAYMENT                                                                                           
+          FOR 179455                                                                                                                        
+09/07/26  UPI-BADAVATH RAJU-9133461643@YBL-CNRB000  0000310042945311  09/07/26             640.00                              14,459.58   
+          0033-310042945311-SENT USING PAYTM U                                                                                              
+09/07/26  UPI-PAX INNOVATION ICT S-PAXINNOVATIONIC  0000310044841799  09/07/26             267.75                              14,191.83   
+          893500.RZP@RXAIRTEL-AIRP0000011-31004484                                                                                          
+          1799-CREDITS TOWARDS HO                                                                                                           
+09/07/26  UPI-BHARATIYAM FOOD AND -BHARATIYAHYD9ON  0000310046517540  09/07/26              20.00                              14,171.83   
+          LINE@YBL-YESB0YBLUPI-310046517540-PAYMEN                                                                                          
+          T FOR 234007                                                                                                                      
+09/07/26  UPI-EATCLUB-EATCLUB@ICICI-ICIC0DC0099-61  0000610032642367  09/07/26             125.00                              14,046.83   
+          0032642367-SENT USING PAYTM U                                                                                                     
+10/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000310142174819  10/07/26              75.00                              13,971.83   
+          @AXISBANK-UTIB0001920-310142174819-151F                                                                                           
+10/07/26  UPI-JPCSHROFFSONSWINEWEL-OMBK.AAEF40109R  0000610101852496  10/07/26             790.00                              13,181.83   
+          8UFUE7HZ@MBK-PPIW0881822-610101852496-SE                                                                                          
+          NT USING PAYTM U                                                                                                                  
+10/07/26  UPI-SWIGGY-UPISWIGGY@ICICI-ICIC0DC0099-3  0000310153148219  10/07/26             138.00                              13,043.83   
+          10153148219-SENT USING PAYTM U                                                                                                    
+11/07/26  UPI-IIT MADRAS ALUMINI-PAYTM-44728079@PT  0000210495293492  11/07/26           1,781.80                              11,262.03   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   9                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          YBL-YESB0PTMUPI-210495293492-SENT USING                                                                                           
+          PAYTM U                                                                                                                           
+11/07/26  UPI-DESAI YUVRAJ BHIKU-9892608250-2@IBL-  0000210511151912  11/07/26              30.00                              11,232.03   
+          ASBL0000009-210511151912-SENT USING PAYT                                                                                          
+          M U                                                                                                                               
+11/07/26  UPI-RAJESH KUMAR YADAV-8422001973@AXL-BA  0000210515420019  11/07/26              50.00                              11,182.03   
+          RB0SULPRA-210515420019-SENT USING PAYTM                                                                                           
+          U                                                                                                                                 
+11/07/26  UPI-EATCLUB-EATCLUB@PTYBL-YESB0PTMUPI-21  0000210517849902  11/07/26             234.00                              10,948.03   
+          0517849902-SENT USING PAYTM U                                                                                                     
+11/07/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1783784775308984  11/07/26             426.00                              10,522.03   
+11/07/26  UPI-DINESH YADAV-Q010006016@YBL-YESB0YBL  0000210558927709  11/07/26              64.00                              10,458.03   
+          UPI-210558927709-SENT USING PAYTM U                                                                                               
+12/07/26  UPI-MUNIMAKULA  MADHURI-SEVIRARIC@OKICIC  0000619337571613  12/07/26                             10,000.00           20,458.03   
+          I-SBIN0020244-619337571613-UPI                                                                                                    
+12/07/26  UPI-ISMAIL RASUL VORA-PAYTMQR28100505010  0000310237214620  12/07/26              48.00                              20,410.03   
+          11RXDCPGXGD95@PAYTM-YESB0PTMUPI-31023721                                                                                          
+          4620-NA                                                                                                                           
+12/07/26  UPI-ML SUPER MARKET-PAYTMQR5Z1T90@PTYS-Y  0000210596207647  12/07/26              20.00                              20,390.03   
+          ESB0PTMUPI-210596207647-SENT USING PAYTM                                                                                          
+          U                                                                                                                                 
+12/07/26  UPI-RAMPRABHAKAR RAMPRAS-RAMPRABHAKARDHU  0000126168064684  12/07/26              55.00                              20,335.03   
+          RIYA93@OKICICI-KKBK0000633-126168064684-                                                                                          
+          UPI                                                                                                                               
+12/07/26  UPI-MOHAN SADASHIV BHAGW-PAYTMQR17C7JXVY  0000310254691023  12/07/26              60.00                              20,275.03   
+          4B@PAYTM-YESB0PTMUPI-310254691023-NA                                                                                              
+12/07/26  UPI-RAMASHISH YADAV-8700318986@AXL-UTIB0  0000310257624310  12/07/26              50.00                              20,225.03   
+          002622-310257624310-SENT USING PAYTM U                                                                                            
+12/07/26  UPI-ARVIND KUMAR-PAYTMQR6OP2J6@PTYS-YESB  0000310257881401  12/07/26              10.00                              20,215.03   
+          0PTMUPI-310257881401-SENT USING PAYTM U                                                                                           
+12/07/26  UPI-RAMABHILASH  YADAV-AY970251348@OKSBI  0000310264504885  12/07/26              53.00                              20,162.03   
+          -SBIN0013178-310264504885-SENT USING PAY                                                                                          
+          TM U                                                                                                                              
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   10                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+12/07/26  UPI-EATCLUB-EATCLUB@ICICI-ICIC0DC0099-61  0000610229771397  12/07/26             234.00                              19,928.03   
+          0229771397-SENT USING PAYTM U                                                                                                     
+12/07/26  UPI-INDIGO AIRLINE-INDIGOAIRLINE.7650995  0000126197422439  12/07/26          16,139.00                               3,789.03   
+          8@HDFCBANK-HDFC0MERUPI-126197422439-UPI                                                                                           
+13/07/26  UPI-COMPASS INDIA FOOD S-CF.COMPASSINDIA  0000210667444208  13/07/26             120.00                               3,669.03   
+          FOODSERV12@CASHFREENSDLPB-NSPB0000011-21                                                                                          
+          0667444208-151F                                                                                                                   
+13/07/26  UPI-MUNIMAKULA  MADHURI-SEVIRARIC@OKSBI-  0000619458723626  13/07/26                             80,000.00           83,669.03   
+          SBIN0020244-619458723626-UPI                                                                                                      
+13/07/26  UPI-SARVESH S SHANBHAG-SARVESHSHANBHAG20  0000619462460937  13/07/26                                 60.00           83,729.03   
+          05@OKSBI-NKGS0000011-619462460937-UPI                                                                                             
+13/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000310311467898  13/07/26             140.00                              83,589.03   
+          @AXISBANK-UTIB0001920-310311467898-151F                                                                                           
+13/07/26  UPI-MC DONALDS-MCDONALDS.27327844@HDFCBA  0000610284959807  13/07/26             509.24                              83,079.79   
+          NK-HDFC0MERUPI-610284959807-SENT USING P                                                                                          
+          AYTM U                                                                                                                            
+13/07/26  UPI-ANAND VIRAPPA SHETTY-7738442069@IBL-  0000310349844060  13/07/26              36.00                              83,043.79   
+          BARB0CHARKO-310349844060-SENT USING PAYT                                                                                          
+          M U                                                                                                                               
+14/07/26  UPI-SARVESH S SHANBHAG-SARVESHSHANBHAG20  0000619547228196  14/07/26                                 65.00           83,108.79   
+          05@OKICICI-NKGS0000011-619547228196-UPI                                                                                           
+14/07/26  UPI-IITM-IITM.EASEBUZZ@HDFCBANK-HDFC0MER  0000610320282895  14/07/26             750.89                              82,357.90   
+          UPI-610320282895-PAY                                                                                                              
+14/07/26  UPI-MOHAMMAD ZAID MANZOO-ZAIDANSARIRZ123  0000126293082648  14/07/26              75.00                              82,282.90   
+          -1@OKAXIS-UBIN0933171-126293082648-UPI                                                                                            
+14/07/26  UPI-EATCLUB-EATCLUB@ICICI-ICIC0DC0099-31  0000310408741067  14/07/26             234.00                              82,048.90   
+          0408741067-SENT USING PAYTM U                                                                                                     
+15/07/26  UPI-COMPASS INDIA FOOD S-CF.COMPASSINDIA  0000310442693806  15/07/26              90.00                              81,958.90   
+          FOODSERV12@CASHFREENSDLPB-NSPB0000011-31                                                                                          
+          0442693806-151F                                                                                                                   
+15/07/26  UPI-DEELIP KUMAR SAHANI-DILEEPKUMARUVX@O  0000310466213106  15/07/26             118.00                              81,840.90   
+          KAXIS-BKID0006861-310466213106-SENT USIN                                                                                          
+          G PAYTM U                                                                                                                         
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   11                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+15/07/26  UPI-DOMINOSPIZZA-JUBILANTFOODWORKSLIMI.P  0000310471645894  15/07/26             210.27                              81,630.63   
+          AYU@MAIRTEL-AIRP0000001-310471645894-UPI                                                                                          
+          INTENT                                                                                                                            
+15/07/26  FT-XX9566-DYNAMIX 803 TOKEN-SHWETA SANDE  0000FTIMPS095626  15/07/26          25,000.00                              56,630.63   
+          EP KADAMB-FTIMPS095626                                                                                                            
+16/07/26  UPI-MUNIMAKULA  MADHURI-SEVIRARIC@OKICIC  0000619783303825  16/07/26                             80,000.00          136,630.63   
+          I-SBIN0020244-619783303825-UPI                                                                                                    
+16/07/26  UPI-COMPASS INDIA FOOD S-CF.COMPASSINDIA  0000610428074313  16/07/26              40.00                             136,590.63   
+          FOODSERV12@CASHFREENSDLPB-NSPB0000011-61                                                                                          
+          0428074313-151F                                                                                                                   
+16/07/26  UPI-COMPASS INDIA FOOD S-CF.COMPASSINDIA  0000126377340757  16/07/26              75.00                             136,515.63   
+          FOODSERV12@CASHFREENSDLPB-NSPB0000011-12                                                                                          
+          6377340757-151F                                                                                                                   
+16/07/26  UPI-COMPASS INDIA FOOD S-CF.COMPASSINDIA  0000126388158682  16/07/26              40.00                             136,475.63   
+          FOODSERV12@CASHFREENSDLPB-NSPB0000011-12                                                                                          
+          6388158682-151F                                                                                                                   
+16/07/26  UPI-LIFE STYLE INTERNATI-LIFESTYLEINTERN  0000310526389008  16/07/26           3,098.00                             133,377.63   
+          ATION.42225197@HDFCBANK-HDFC0MERUPI-3105                                                                                          
+          26389008-SENT USING PAYTM U                                                                                                       
+16/07/26  UPI-RAJESH KUMAR UDAYBHA-RAJESHYADAV3403  0000310527765847  16/07/26              75.00                             133,302.63   
+          6-1@OKICICI-UBIN0817091-310527765847-SEN                                                                                          
+          T USING PAYTM U                                                                                                                   
+16/07/26  UPI-ASHOK KUMAR-AK3888674@OKICICI-UBIN09  0000310540405780  16/07/26             260.00                             133,042.63   
+          03680-310540405780-SENT USING PAYTM U                                                                                             
+16/07/26  UPI-F362 GOOD FLIPPIN BU-F362GOODFLIPPIN  0000310545417269  16/07/26             415.00                             132,627.63   
+          BURGE.42799249@HDFCBANK-HDFC0MERUPI-3105                                                                                          
+          45417269-SENT USING PAYTM U                                                                                                       
+17/07/26  UPI-MR GANESH RAJA-7708549276-2@IBL-IDIB  0000310552394090  17/07/26             540.00                             132,087.63   
+          000V044-310552394090-SENT USING PAYTM U                                                                                           
+17/07/26  UPI-MARAO ENTERPRISES-Q771625400@YBL-YES  0000210979891566  17/07/26              40.00                             132,047.63   
+          B0YBLUPI-210979891566-SENT USING PAYTM U                                                                                          
+17/07/26  UPI-MARAO ENTERPRISES-MARAOENTERPRISES1O  0000310562383915  17/07/26              20.00                             132,027.63   
+          FFLINE@YBL-YESB0YBLUPI-310562383915-PAYM                                                                                          
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   12                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          ENT FOR MCCC56                                                                                                                    
+17/07/26  UPI-KUNDUKANDATHIL KUNHI-PAYTMQR6UE8KN@P  0000310563865966  17/07/26              15.00                             132,012.63   
+          TYS-YESB0PTMUPI-310563865966-SENT USING                                                                                           
+          PAYTM U                                                                                                                           
+17/07/26  UPI-ZAITOON QUARK IIT CA-Q363987060@YBL-  0000210985463812  17/07/26              43.00                             131,969.63   
+          YESB0YBLUPI-210985463812-SENT USING PAYT                                                                                          
+          M U                                                                                                                               
+17/07/26  UPI-MARAO ENTERPRISES-MARAOENTERPRISES1O  0000310565401391  17/07/26              60.00                             131,909.63   
+          FFLINE@YBL-YESB0YBLUPI-310565401391-PAYM                                                                                          
+          ENT FOR MJRU56                                                                                                                    
+17/07/26  UPI-BABU S-PAYTMQR6UDWKT@PTYS-YESB0PTMUP  0000210997550500  17/07/26              40.00                             131,869.63   
+          I-210997550500-SENT USING PAYTM U                                                                                                 
+17/07/26  UPI-SARAVANAN M-SARAVANANSARAVANAN59463@  0000210998821660  17/07/26              55.00                             131,814.63   
+          OKICICI-BARB0WIMNAG-210998821660-SENT US                                                                                          
+          ING PAYTM U                                                                                                                       
+17/07/26  UPI-T  GANESAN-GANESHGOMATHY23@OKSBI-SBI  0000310579053233  17/07/26             160.00                             131,654.63   
+          N0010666-310579053233-SENT USING PAYTM U                                                                                          
+17/07/26  UPI-SMART BAZAAR  CHENNA-2305852965394-0  0000211008309559  17/07/26             302.00                             131,352.63   
+          1@JIOPAY-JIOP0000001-211008309559-SENT U                                                                                          
+          SING PAYTM U                                                                                                                      
+17/07/26  UPI-SANJU M-SANJUSKV90@OKHDFCBANK-BARB0K  0000310584706103  17/07/26             200.00                             131,152.63   
+          UZHIT-310584706103-SENT USING PAYTM U                                                                                             
+18/07/26  UPI-BABU S-PAYTMQR6UDWKT@PTYS-YESB0PTMUP  0000211064980079  18/07/26              20.00                             131,132.63   
+          I-211064980079-SENT USING PAYTM U                                                                                                 
+18/07/26  UPI-KARTHIKEYAN E S-9841925109@YBL-UBIN0  0000310631561289  18/07/26             120.00                             131,012.63   
+          552852-310631561289-SENT USING PAYTM U                                                                                            
+18/07/26  UPI-MR SURESH BABU J-SB6872126-1@OKAXIS-  0000310636758545  18/07/26             250.00                             130,762.63   
+          IDIB000E002-310636758545-SENT USING PAYT                                                                                          
+          M U                                                                                                                               
+18/07/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1784375081269499  18/07/26           3,585.50                             127,177.13   
+18/07/26  UPI-SHAKTHIVEL  VELAYUDH-VELS28698@OKAXI  0000310654037207  18/07/26             300.00                             126,877.13   
+          S-CNRB0000033-310654037207-SENT USING PA                                                                                          
+          YTM U                                                                                                                             
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   13                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+18/07/26  UPI-TFS 90210041 KFC-PAYTM.D17688487932@  0000610582619019  18/07/26             515.00                             126,362.13   
+          PTY-YESB0MCHUPI-610582619019-SENT USING                                                                                           
+          PAYTM U                                                                                                                           
+18/07/26  UPI-AUTOPAY-SPOTIFY INDIA PVT LT-SPOTIFY  0000103689155906  18/07/26             119.00                             126,243.13   
+          .BDSI@HDFCBANK-HDFC0MERUPI-103689155906-                                                                                          
+          EXECUTION TEST                                                                                                                    
+19/07/26  UPI-RITESH KUMAR-Q83828610@YBL-BARB0KODA  0000211127199093  19/07/26             280.00                             125,963.13   
+          RM-211127199093-SENT USING PAYTM U                                                                                                
+19/07/26  04111000009566-TPT-MUNIMAKULA SD-SHWETA   0000000508305356  19/07/26          70,000.00                              55,963.13   
+          SANDEEP KADAMB                                                                                                                    
+19/07/26  UPI-MEHRAN FAROOQ SHAH-SHAHMF@OKSBI-SBIN  0000620034361482  19/07/26                                  1.00           55,964.13   
+          0001860-620034361482-UPI                                                                                                          
+19/07/26  04111000009566-TPT-MEHRAN BALANCE SD-SHW  0000000509502211  19/07/26          20,000.00                              35,964.13   
+          ETA SANDEEP KADAMB                                                                                                                
+19/07/26  04111000009566-TPT-JULY BALANCE RENT-SHW  0000000509784188  19/07/26          10,000.00                              25,964.13   
+          ETA SANDEEP KADAMB                                                                                                                
+19/07/26  UPI-SNACKERS ACCOMMODATI-SNACKERSACCOMMO  0000310700871100  19/07/26           3,900.00                              22,064.13   
+          DATION@OKSBI-IBKL0000691-310700871100-SE                                                                                          
+          NT USING PAYTM U                                                                                                                  
+19/07/26  UPI-EATCLUB-EATCLUB@PTYBL-YESB0PTMUPI-21  0000211171214202  19/07/26             234.00                              21,830.13   
+          1171214202-SENT USING PAYTM U                                                                                                     
+19/07/26  UPI-NATURALS INORBIT MAL-PAYTM.D10516130  0000310746993927  19/07/26             480.00                              21,350.13   
+          @PTY-YESB0MCHUPI-310746993927-SENT USING                                                                                          
+          PAYTM U                                                                                                                           
+19/07/26  UPI-ISHITA LUHARUKA-ISHITALUHARUKA@OKAXI  0000620005502800  19/07/26                                 90.00           21,440.13   
+          S-BKID0004021-620005502800-UPI                                                                                                    
+20/07/26  UPI-PUTUL DEVI-NAKULDEVAGARWAL12077@OKHD  0000211215747880  20/07/26              45.00                              21,395.13   
+          FCBANK-BKID0004983-211215747880-SENT USI                                                                                          
+          NG PAYTM U                                                                                                                        
+20/07/26  UPI-COMPASS INDIA FOOD S-CF.COMPASSINDIA  0000126575882593  20/07/26              10.00                              21,385.13   
+          FOODSERV12@CASHFREENSDLPB-NSPB0000011-12                                                                                          
+          6575882593-151F                                                                                                                   
+20/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000310761427363  20/07/26              26.00                              21,359.13   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   14                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          @AXISBANK-UTIB0001920-310761427363-151F                                                                                           
+20/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000310769895169  20/07/26              75.00                              21,284.13   
+          @AXISBANK-UTIB0001920-310769895169-151F                                                                                           
+20/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000310771098864  20/07/26              20.00                              21,264.13   
+          @AXISBANK-UTIB0001920-310771098864-151F                                                                                           
+20/07/26  UPI-COMPASS INDIA FOOD S-CF.COMPASSINDIA  0000310787307106  20/07/26              60.00                              21,204.13   
+          FOODSERV12@CASHFREENSDLPB-NSPB0000011-31                                                                                          
+          0787307106-151F                                                                                                                   
+21/07/26  UPI-AJAY KUMAR YADAV-AY9838779@OKSBI-SBI  0000310818577752  21/07/26              86.00                              21,118.13   
+          N0010899-310818577752-SENT USING PAYTM U                                                                                          
+21/07/26  UPI-OM  SINGH-SINGH.OM.MAIL01@OKSBI-SBIN  0000620235386208  21/07/26                                 45.00           21,163.13   
+          0003589-620235386208-UPI                                                                                                          
+21/07/26  UPI-COMPASS INDIA FOOD S-CF.COMPASSINDIA  0000310824979808  21/07/26              10.00                              21,153.13   
+          FOODSERV12@CASHFREENSDLPB-NSPB0000011-31                                                                                          
+          0824979808-151F                                                                                                                   
+21/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000211308663778  21/07/26              75.00                              21,078.13   
+          @AXISBANK-UTIB0001920-211308663778-151F                                                                                           
+21/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000310832794061  21/07/26              35.00                              21,043.13   
+          @AXISBANK-UTIB0001920-310832794061-151F                                                                                           
+21/07/26  UPI-COMPASS INDIA FOOD S-CF.COMPASSINDIA  0000310845952345  21/07/26              85.00                              20,958.13   
+          FOODSERV12@CASHFREENSDLPB-NSPB0000011-31                                                                                          
+          0845952345-151F                                                                                                                   
+21/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000310847068211  21/07/26              25.00                              20,933.13   
+          @AXISBANK-UTIB0001920-310847068211-151F                                                                                           
+21/07/26  UPI-MILIND  LAXMAN  MAHA-MILINDMAHALE199  0000310849675925  21/07/26              80.00                              20,853.13   
+          4-1@OKICICI-BKID0000098-310849675925-SEN                                                                                          
+          T USING PAYTM U                                                                                                                   
+21/07/26  UPI-AKHILESH KUMAR S O D-BHARATPE.900580  0000610762340433  21/07/26             120.00                              20,733.13   
+          88053@FBPE-FDRL0001382-610762340433-PAY                                                                                           
+          TO BHARATPE ME                                                                                                                    
+21/07/26  UPI-MUNIMAKULA  MADHURI-SEVIRARIC@OKSBI-  0000620283675888  21/07/26                             20,000.00           40,733.13   
+          SBIN0020244-620283675888-UPI                                                                                                      
+22/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000310891003754  22/07/26             110.00                              40,623.13   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   15                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          @AXISBANK-UTIB0001920-310891003754-151F                                                                                           
+22/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000610788410199  22/07/26              40.00                              40,583.13   
+          @AXISBANK-UTIB0001920-610788410199-151F                                                                                           
+22/07/26  UPI-MUKESH KUMAR YADAV-MUKESHKUMARBR2010  0000310908918062  22/07/26             180.00                              40,403.13   
+          -6@OKAXIS-BARB0MINDSP-310908918062-SENT                                                                                           
+          USING PAYTM U                                                                                                                     
+22/07/26  UPI-CHANDAN KUMAR SHANKA-PQR.TX8OU5Y@PTY  0000211404649835  22/07/26              26.00                              40,377.13   
+          ES-SBIN0013036-211404649835-NA                                                                                                    
+22/07/26  UPI-EATCLUB-EATCLUB@ICICI-ICIC0DC0099-61  0000610823686305  22/07/26             234.00                              40,143.13   
+          0823686305-SENT USING PAYTM U                                                                                                     
+23/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000310947829468  23/07/26              58.00                              40,085.13   
+          @AXISBANK-UTIB0001920-310947829468-151F                                                                                           
+23/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000211455501915  23/07/26             110.00                              39,975.13   
+          @AXISBANK-UTIB0001920-211455501915-151F                                                                                           
+23/07/26  UPI-RAM JEET GUPTA SO  A-7304052349-1@NY  0000610864614664  23/07/26             210.00                              39,765.13   
+          ES-BARB0BUPGBX-610864614664-SENT USING P                                                                                          
+          AYTM U                                                                                                                            
+23/07/26  UPI-EATCLUB-EATCLUB@ICICI-ICIC0DC0099-31  0000310992091290  23/07/26             700.00                              39,065.13   
+          0992091290-SENT USING PAYTM U                                                                                                     
+24/07/26  UPI-IMRAN  KHAN-8090045540@YBL-KKBK00006  0000311004476051  24/07/26             100.00                              38,965.13   
+          62-311004476051-SENT USING PAYTM U                                                                                                
+24/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000311009044980  24/07/26              46.00                              38,919.13   
+          @AXISBANK-UTIB0001920-311009044980-151F                                                                                           
+24/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000311018479392  24/07/26              90.00                              38,829.13   
+          @AXISBANK-UTIB0001920-311018479392-151F                                                                                           
+24/07/26  UPI-AVENUE SUPERMARTS LT-PINEDMARTMH@ICI  0000311026262719  24/07/26           5,791.00                              33,038.13   
+          CI-ICIC0DC0099-311026262719-SENT USING P                                                                                          
+          AYTM U                                                                                                                            
+24/07/26  UPI-COMPASS INDIA FOOD S-CF.COMPASSINDIA  0000311045341936  24/07/26              59.00                              32,979.13   
+          FOODSERV12@CASHFREENSDLPB-NSPB0000011-31                                                                                          
+          1045341936-151F                                                                                                                   
+24/07/26  UPI-MOHD SHAUKAT-8511189265@YBL-BARB0SAG  0000610935731264  24/07/26             350.00                              32,629.13   
+          SUN-610935731264-SENT USING PAYTM U                                                                                               
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   16                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+24/07/26  UPI-KANISHKA WINES-VYAPAR.169031358505@H  0000311054489793  24/07/26           1,410.00                              31,219.13   
+          DFCBANK-HDFC0MERUPI-311054489793-SENT US                                                                                          
+          ING PAYTM U                                                                                                                       
+24/07/26  UPI-SAMRAT RESTAURANT-SAMRATRESTAURANT.6  0000311057373950  24/07/26             900.00                              30,319.13   
+          6000299@HDFCBANK-HDFC0MERUPI-31105737395                                                                                          
+          0-SENT USING PAYTM U                                                                                                              
+25/07/26  UPI-BLINKIT-PAYTM-BLINKIT@PTYBL-YESB0PTM  0000211586679554  25/07/26             223.00                              30,096.13   
+          UPI-211586679554-BLINKIT PAYMENT                                                                                                  
+25/07/26  UPI-EATCLUB-EATCLUB@PTYBL-YESB0PTMUPI-21  0000211617010375  25/07/26             139.00                              29,957.13   
+          1617010375-SENT USING PAYTM U                                                                                                     
+25/07/26  UPI-BHAIRAV CHEMIST AND -9413680143-1@OK  0000211618870488  25/07/26              70.00                              29,887.13   
+          BIZAXIS-UTIB0000553-211618870488-SENT US                                                                                          
+          ING PAYTM U                                                                                                                       
+25/07/26  UPI-NITIN SHASHIKANT  SA-NI3SAGVEKAR1127  0000311097326495  25/07/26              85.00                              29,802.13   
+          @OKAXIS-SBIN0000415-311097326495-SENT US                                                                                          
+          ING PAYTM U                                                                                                                       
+25/07/26  UPI-MC DONALDS-MCDONALDS.27327809@HDFCBA  0000311098566098  25/07/26             219.44                              29,582.69   
+          NK-HDFC0MERUPI-311098566098-SENT USING P                                                                                          
+          AYTM U                                                                                                                            
+25/07/26  UPI-GAUTAM JEETBAHADUR C-Q255357246@YBL-  0000211627925977  25/07/26              50.00                              29,532.69   
+          YESB0YBLUPI-211627925977-SENT USING PAYT                                                                                          
+          M U                                                                                                                               
+25/07/26  UPI-MUKESH RAJESH JAISWA-JAISWARMUKESH50  0000311109757126  25/07/26              70.00                              29,462.69   
+          @OKHDFCBANK-HDFC0001120-311109757126-SEN                                                                                          
+          T USING PAYTM U                                                                                                                   
+25/07/26  UPI-HUSAIN PATEL-HUSAINPATEL94@OKICICI-H  0000311113871404  25/07/26              40.00                              29,422.69   
+          DFC0000411-311113871404-SENT USING PAYTM                                                                                          
+          U                                                                                                                                 
+25/07/26  UPI-AMAZON INDIA-AMAZONUPI@APL-UTIB00001  0000311119693068  25/07/26           1,384.00                              28,038.69   
+          00-311119693068-SENT USING PAYTM U                                                                                                
+25/07/26  UPI-EATCLUB-EATCLUB@ICICI-ICIC0DC0099-31  0000311125190125  25/07/26             176.00                              27,862.69   
+          1125190125-SENT USING PAYTM U                                                                                                     
+26/07/26  UPI-ALPHA NETWORKS-7037337370@OKBIZAXIS-  0000311143655544  26/07/26           4,250.00                              23,612.69   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   17                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          UTIB0000553-311143655544-SENT USING PAYT                                                                                          
+          M U                                                                                                                               
+26/07/26  UPI-EATCLUB-EATCLUB@PTYBL-YESB0PTMUPI-21  0000211682485520  26/07/26             234.00                              23,378.69   
+          1682485520-SENT USING PAYTM U                                                                                                     
+26/07/26  UPI-AMAZON INDIA-AMAZON@RAPL-RATN000RAPL  0000311148382660  26/07/26             442.00                              22,936.69   
+          -311148382660-SENT USING PAYTM U                                                                                                  
+26/07/26  UPI-AMAZON INDIA-AMAZON@RAPL-RATN000RAPL  0000311156384858  26/07/26           1,384.00                              21,552.69   
+          -311156384858-SENT USING PAYTM U                                                                                                  
+26/07/26  UPI-MAHENDRA NAROTTAM JA-MAHENDRAJAISWAR  0000311157556895  26/07/26           1,000.00                              20,552.69   
+          18@OKSBI-BKID0000102-311157556895-SENT U                                                                                          
+          SING PAYTM U                                                                                                                      
+26/07/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1785081143890889  26/07/26             238.10                              20,314.59   
+26/07/26  UPI-BHAIRAV CHEMIST AND -9413680143-1@OK  0000611060207839  26/07/26             600.00                              19,714.59   
+          BIZAXIS-UTIB0000553-611060207839-SENT US                                                                                          
+          ING PAYTM U                                                                                                                       
+26/07/26  UPI-KRISH BHANUSHALI-Q280227901@YBL-YESB  0000311188445718  26/07/26              60.00                              19,654.59   
+          0YBLUPI-311188445718-SENT USING PAYTM U                                                                                           
+27/07/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1785130644702925  27/07/26             499.00                              19,155.59   
+27/07/26  UPI-IKEA INDIA PRIVATE L-IKEAINDIA.PAYU@  0000211757625193  27/07/26           2,305.00                              16,850.59   
+          HDFCBANK-HDFC0MERUPI-211757625193-UPIINT                                                                                          
+          ENT                                                                                                                               
+27/07/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1785137200438699  27/07/26             142.00                              16,708.59   
+27/07/26  UPI-SHAILESH KUMAR-PAYTMQR281005050101SP  0000311219755974  27/07/26              35.00                              16,673.59   
+          2IYCYBM1ST@PAYTM-YESB0PTMUPI-31121975597                                                                                          
+          4-VERIFIED PAYTM MER                                                                                                              
+27/07/26  UPI-COMPASS INDIA FOOD S-CF.COMPASSINDIA  0000311232465014  27/07/26              65.00                              16,608.59   
+          FOODSERV12@CASHFREENSDLPB-NSPB0000011-31                                                                                          
+          1232465014-151F                                                                                                                   
+27/07/26  MS SALARY JUL26                           0000607272844165  27/07/26                            451,366.00          467,974.59   
+27/07/26  UPI-COMPASS INDIA FOOD S-CF.COMPASSINDIA  0000211792558996  27/07/26              40.00                             467,934.59   
+          FOODSERV12@CASHFREENSDLPB-NSPB0000011-21                                                                                          
+          1792558996-151F                                                                                                                   
+27/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000311249165427  27/07/26              40.00                             467,894.59   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   18                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          @AXISBANK-UTIB0001920-311249165427-151F                                                                                           
+28/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000211809687699  28/07/26              75.00                             467,819.59   
+          @AXISBANK-UTIB0001920-211809687699-151F                                                                                           
+28/07/26  UPI-MR ISAMUDDIN ALI-ALIISAMUDDIN83@OKSB  0000311255575423  28/07/26              70.00                             467,749.59   
+          I-IDIB000D072-311255575423-SENT USING PA                                                                                          
+          YTM U                                                                                                                             
+28/07/26  UPI-MANNALAL PRAJAPATI-MANNALALPRAJAPATI  0000611128394451  28/07/26              94.00                             467,655.59   
+          406@OKHDFCBANK-BKID0000081-611128394451-                                                                                          
+          SENT USING PAYTM U                                                                                                                
+28/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000611136773028  28/07/26              75.00                             467,580.59   
+          @AXISBANK-UTIB0001920-611136773028-151F                                                                                           
+28/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000611136850818  28/07/26              35.00                             467,545.59   
+          @AXISBANK-UTIB0001920-611136850818-151F                                                                                           
+28/07/26  UPI-COMPASS INDIA FOOD S-CF.COMPASSINDIA  0000311278670459  28/07/26              40.00                             467,505.59   
+          FOODSERV12@CASHFREENSDLPB-NSPB0000011-31                                                                                          
+          1278670459-151F                                                                                                                   
+28/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000311286512027  28/07/26             180.00                             467,325.59   
+          @AXISBANK-UTIB0001920-311286512027-151F                                                                                           
+28/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000311286795066  28/07/26              25.00                             467,300.59   
+          @AXISBANK-UTIB0001920-311286795066-151F                                                                                           
+28/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000311295983880  28/07/26              80.00                             467,220.59   
+          @AXISBANK-UTIB0001920-311295983880-151F                                                                                           
+28/07/26  UPI-BIKKI KUMAR-7667557645@NYES-IPOS0000  0000311299395368  28/07/26              85.00                             467,135.59   
+          001-311299395368-SENT USING PAYTM U                                                                                               
+28/07/26  UPI-KASIM ASLAM SAYYED-SHAIKHKASIMSHAIKH  0000311313137703  28/07/26              40.00                             467,095.59   
+          49@OKICICI-NSPB0000002-311313137703-SENT                                                                                          
+          USING PAYTM U                                                                                                                     
+29/07/26  UPI-RAPIDO-PAYTM-76881028@PTYBL-YESB0PTM  0000211884050418  29/07/26              45.00                             467,050.59   
+          UPI-211884050418-SENT USING PAYTM U                                                                                               
+29/07/26  UPI-RAPIDO-PAYTM-76881028@PTYBL-YESB0PTM  0000211887623721  29/07/26              37.00                             467,013.59   
+          UPI-211887623721-SENT USING PAYTM U                                                                                               
+29/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000311325357502  29/07/26              40.00                             466,973.59   
+          @AXISBANK-UTIB0001920-311325357502-151F                                                                                           
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   19                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+29/07/26  UPI-COMPASS INDIA FOOD S-COMPASSINDIA.CF  0000611186063153  29/07/26              76.00                             466,897.59   
+          @AXISBANK-UTIB0001920-611186063153-151F                                                                                           
+29/07/26  UPI-COMPASS INDIA FOOD S-CF.COMPASSINDIA  0000311349185531  29/07/26             150.00                             466,747.59   
+          FOODSERV12@CASHFREENSDLPB-NSPB0000011-31                                                                                          
+          1349185531-151F                                                                                                                   
+29/07/26  UPI-COMPASS INDIA FOOD S-CF.COMPASSINDIA  0000311349285737  29/07/26             100.00                             466,647.59   
+          FOODSERV12@CASHFREENSDLPB-NSPB0000011-31                                                                                          
+          1349285737-151F                                                                                                                   
+29/07/26  NEFT CR-IDFB0010204-IITM CCW REFUND ACCO  IDFBH26210816320  29/07/26                              1,425.00          468,072.59   
+          UNT-ACHYUTHA MUNIMAKULA-IDFBH26210816320                                                                                          
+29/07/26  IMPS-621052252698-MUNIMAKULA MADHURI-SBI  0000621052252698  29/07/26              16.00                             468,056.59   
+          N-XXXXXXX8181-TRIAL                                                                                                               
+29/07/26  IMPS-621052256113-MUNIMAKULA MADHURI-SBI  0000621052256113  29/07/26          40,000.00                             428,056.59   
+          N-XXXXXXX8181-THANK YOU                                                                                                           
+29/07/26  UPI-VISHAL YADAV-VY711488@OKICICI-AIRP00  0000311364066558  29/07/26              84.00                             427,972.59   
+          00001-311364066558-SENT USING PAYTM U                                                                                             
+29/07/26  UPI-EATCLUB-EATCLUB@ICICI-ICIC0DC0099-21  0000211952217468  29/07/26             234.00                             427,738.59   
+          1952217468-SENT USING PAYTM U                                                                                                     
+29/07/26  UPI-AMAZON INDIA-AMAZONUPI@APL-UTIB00001  0000311380659389  29/07/26             831.00                             426,907.59   
+          00-311380659389-SENT USING PAYTM U                                                                                                
+30/07/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1785388444959260  30/07/26             227.30                             426,680.29   
+30/07/26  IMPS-621152762894-MUNIMAKULA MADHURI-SBI  0000621152762894  30/07/26         160,000.00                             266,680.29   
+          N-XXXXXXX8181-IMPS TRANSACTION                                                                                                    
+30/07/26  UPI-XXXXXXXX9585-ICIC0000069-62112478298  0000621124782981  30/07/26           8,887.93                             257,792.36   
+          1-UPI SEND MONEY                                                                                                                  
+31/07/26  IMPS P2P 621052256113#29/07/2026-EPR2721  EPR2721294046328  31/07/26               5.90                             257,786.46   
+          294046328                                                                                                                         
+31/07/26  IMPS P2P 621052252698#29/07/2026-EPR2721  EPR2721294046333  31/07/26               2.96                             257,783.50   
+          294046333                                                                                                                         
+31/07/26  UPI-MUNIMAKULA ACHYUTHA-ACHYUTHAMUNIMAKU  0000127133083961  31/07/26          10,000.00                             247,783.50   
+          LA@OKICICI-ICIC0000069-127133083961-MAIN                                                                                          
+31/07/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1785503166805797  31/07/26           2,086.71                             245,696.79   
+31/07/26  UPI-NEW STAR HOTEL-VYAPAR.173351455710@H  0000127157908193  31/07/26              80.00                             245,616.79   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   20                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          DFCBANK-HDFC0MERUPI-127157908193-UPI                                                                                              
+01/08/26  UPI-MUNIMAKULA ACHYUTHA-ACHYUTHAMUNIMAKU  0000127200647159  01/08/26           6,240.00                             239,376.79   
+          LA@OKICICI-ICIC0000069-127200647159-UPI                                                                                           
+01/08/26  UPI-U CHANDRA PRABHAT VA-PRABHATUDDARAJU  0000127201583156  01/08/26             350.00                             239,026.79   
+          @OKSBI-SBIN0060454-127201583156-UPI                                                                                               
+01/08/26  UPI-U CHANDRA PRABHAT VA-PRABHATUDDARAJU  0000127201744438  01/08/26             300.00                             238,726.79   
+          @OKSBI-SBIN0060454-127201744438-UPI                                                                                               
+01/08/26  EXC PYMT - 5268 XXXX XXXX 6906            000000000000000   01/08/26                              2,086.71          240,813.50   
+02/08/26  UPI-U CHANDRA PRABHAT VA-PRABHATUDDARAJU  0000127250538752  02/08/26             545.00                             240,268.50   
+          @OKSBI-SBIN0060454-127250538752-UPI                                                                                               
+02/08/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1785673107276099  02/08/26           2,720.00                             237,548.50   
+02/08/26  UPI-MUNIMAKULA  ACHYUTHA-ACHYUTHAMUNIMAK  0000127267632657  02/08/26           2,500.00                             235,048.50   
+          ULA-1@OKSBI-SBIN0007109-127267632657-UPI                                                                                          
+03/08/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1785735019435294  03/08/26             580.49                             234,468.01   
+04/08/26  IMPS P2P 621152762894#30/07/2026-EPR2721  EPR2721502705618  04/08/26              17.70                             234,450.31   
+          502705618                                                                                                                         
+05/08/26  UPI-NAFISA  PARVIN-9155001599@PTSBI-SBIN  0000127442374403  05/08/26              80.00                             234,370.31   
+          0007956-127442374403-UPI                                                                                                          
+05/08/26  FT-XX9566-AUGUST RENT-SHWETA SANDEEP KAD  0000FTIMPS320638  05/08/26          66,500.00                             167,870.31   
+          AMB-FTIMPS320638                                                                                                                  
+06/08/26  UPI-MUNIMAKULA ACHYUTHA-ACHYUTHAMUNIMAKU  0000658463585802  06/08/26                             26,000.00          193,870.31   
+          LA@OKICICI-ICIC0000069-658463585802-MAIN                                                                                          
+08/08/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1786133097671387  08/08/26           3,933.33                             189,936.98   
+09/08/26  UPI-MUNIMAKULA ACHYUTHA-ACHYUTHAMUNIMAKU  0000127648846065  09/08/26           5,000.00                             184,936.98   
+          LA@OKICICI-ICIC0000069-127648846065-UPI                                                                                           
+09/08/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1786294385298507  09/08/26           1,045.30                             183,891.68   
+10/08/26  UPI-MUNIMAKULA ACHYUTHA-ACHYUTHAMUNIMAKU  0000127700680608  10/08/26          15,000.00                             168,891.68   
+          LA@OKICICI-ICIC0000069-127700680608-UPI                                                                                           
+11/08/26  UPI-PAMULAPATI SURENDRA -DHANUSHPAMULAPA  0000127769046486  11/08/26              52.00                             168,839.68   
+          TI@OKHDFCBANK-IDFB0040101-127769046486-U                                                                                          
+          PI                                                                                                                                
+11/08/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1786468444702811  11/08/26             333.90                             168,505.78   
+14/08/26  UPI-COMPASS INDIA FOOD S-CF.COMPASSINDIA  0000127917584852  14/08/26              40.00                             168,465.78   
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   21                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+          FOODSERV12@CASHFREENSDLPB-NSPB0000011-12                                                                                          
+          7917584852-151F                                                                                                                   
+16/08/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1786898253834908  16/08/26           2,193.60                             166,272.18   
+21/08/26  MORGAN STANLEY-2000005581                 0000608201621022  21/08/26                              9,450.00          175,722.18   
+21/08/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1787323817954979  21/08/26             872.50                             174,849.68   
+25/08/26  UPI-MUNIMAKULA  MADHURI-SEVIRARIC@OKICIC  0000128501400284  25/08/26           8,000.00                             166,849.68   
+          I-SBIN0020244-128501400284-UPI                                                                                                    
+26/08/26  UPI-MUNIMAKULA  ACHYUTHA-ACHYUTHAMUNIMAK  0000128516482968  26/08/26          36,000.00                             130,849.68   
+          ULA-1@OKSBI-SBIN0007109-128516482968-VIE                                                                                          
+          TNAM                                                                                                                              
+26/08/26  FT-A2AINT01 - 1870238160 -  - 0060034007  0000001870238160  26/08/26                            199,612.00          330,461.68   
+          4318 - MORGAN STANLEY ADVANTAGE SERVICES                                                                                          
+          18                                                                                                                                
+27/08/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1787808933704863  27/08/26           6,242.00                             324,219.68   
+27/08/26  UPI-MUNIMAKULA ACHYUTHA-ACHYUTHAMUNIMAKU  0000128597346241  27/08/26          15,000.00                             309,219.68   
+          LA@OKICICI-ICIC0000069-128597346241-UPI                                                                                           
+29/08/26  UPI-HUSED  ALI-HUSEDALI78-1@OKSBI-SBIN00  0000128711175115  29/08/26             835.00                             308,384.68   
+          16462-128711175115-UPI                                                                                                            
+29/08/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1788024180634603  29/08/26             498.90                             307,885.78   
+30/08/26  UPI-MUNIMAKULA ACHYUTHA-ACHYUTHAMUNIMAKU  0000128755573867  30/08/26          15,000.00                             292,885.78   
+          LA@OKICICI-ICIC0000069-128755573867-MAIN                                                                                          
+02/09/26  UPI-MUNIMAKULA ACHYUTHA-ACHYUTHAMUNIMAKU  0000128930704664  02/09/26          10,000.00                             282,885.78   
+          LA@OKICICI-ICIC0000069-128930704664-UPI                                                                                           
+03/09/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1788396032628359  03/09/26             200.00                             282,685.78   
+04/09/26  POS 435584XXXXXX8992 624601808344 04SEP2  0000624601808344  04/09/26           2,432.67                             280,253.11   
+          6 06:53:32 1900 55 55 77 VNPAY*EVISAVIET                                                                                          
+          NA                                                                                                                                
+04/09/26  04111000009566-TPT-803 SEP RENT-SHWETA S  0000000581905453  04/09/26          66,500.00                             213,753.11   
+          ANDEEP KADAMB                                                                                                                     
+05/09/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1788605554448042  05/09/26             880.00                             212,873.11   
+05/09/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1788605576428578  05/09/26           1,846.00                             211,027.11   
+07/09/26  DC INTL POS TXN MARKUP+ST 040926-EPR2725  EPR2725022441462  07/09/26             100.47                             210,926.64   
+          022441462                                                                                                                         
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   22                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+11/09/26  ME DC SI 435584XXXXXX8992 ZEEENTERTAINME  0000625319576524  11/09/26             799.00                             210,127.64   
+          NTCYBSSI                                                                                                                          
+12/09/26  UPI-AIRBNB-AIRBNB682085.RZP@HDFCBANK-HDF  0000129512273808  12/09/26           3,214.06                             206,913.58   
+          C0MERUPI-129512273808-PAY VIA RAZORPAY                                                                                            
+14/09/26  UPI-AIRBNB-AIRBNB230462.RZP@RXAIRTEL-AIR  0000129579742570  14/09/26           2,835.94                             204,077.64   
+          P0000011-129579742570-PAY VIA RAZORPAY                                                                                            
+15/09/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1789484194606892  15/09/26           1,627.30                             202,450.34   
+17/09/26  UPI-MUNIMAKULA ACHYUTHA-ACHYUTHAMUNIMAKU  0000129734353366  17/09/26          20,000.00                             182,450.34   
+          LA@OKICICI-ICIC0000069-129734353366-MAIN                                                                                          
+17/09/26  UPI-ROHIT KUMAR-6299704484@MBK-PPIW08818  0000129734610519  17/09/26             261.00                             182,189.34   
+          22-129734610519-UPI                                                                                                               
+19/09/26  UPI-MUNIMAKULA ACHYUTHA-ACHYUTHAMUNIMAKU  0000129846401875  19/09/26          26,000.00                             156,189.34   
+          LA@OKICICI-ICIC0000069-129846401875-UPI                                                                                           
+20/09/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1789900404214571  20/09/26           2,797.80                             153,391.54   
+21/09/26  EXC PYMT - 5268 XXXX XXXX 6906            000000000000000   21/09/26                              1,130.00          154,521.54   
+21/09/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1790007362797571  21/09/26           1,155.00                             153,366.54   
+23/09/26  UPI-SALMAN VASIM SHAH-7715805543@PTHDFC-  0000130118061655  23/09/26              57.00                             153,309.54   
+          UBIN0572187-130118061655-UPI                                                                                                      
+25/09/26  FT-A2AINT01 - 1954463629 -  - 0060034007  0000001954463629  25/09/26                            199,235.00          352,544.54   
+          4318 - MORGAN STANLEY ADVANTAGE SERVICES                                                                                          
+          18                                                                                                                                
+26/09/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1790416866148427  26/09/26           1,635.40                             350,909.14   
+27/09/26  IB BILLPAY DR-HDFC6O-528037XXXXXX2207     1790526248878317  27/09/26           1,706.00                             349,203.14   
+27/09/26  IB BILLPAY DR-HDFC4U-526873XXXXXX6906     1790526274232463  27/09/26           1,080.00                             348,123.14   
+01/10/26  INTEREST PAID TILL 30-SEP-2026            000000000000000   30/09/26                              1,115.00          349,238.14   
+04/10/26  04111000009566-TPT-OCT RENT 803-SHWETA S  0000000132548090  04/10/26          66,500.00                             282,738.14   
+          ANDEEP KADAMB                                                                                                                     
+06/10/26  IB BILLPAY DR-HDFC6O-528037XXXXXX2207     1791274409244902  06/10/26           1,638.60                             281,099.54   
+18/10/26  IB BILLPAY DR-HDFC6O-528037XXXXXX2207     1792301396714500  18/10/26           6,408.35                             274,691.19   
+26/10/26  IB BILLPAY DR-HDFC6O-528037XXXXXX2207     1793025433599249  26/10/26           7,833.82                             266,857.37   
+27/10/26  FT-A2AINT01 - 2047237889 -  - 0060034007  0000002047237889  27/10/26                            204,466.00          471,323.37   
+          4318 - MORGAN STANLEY ADVANTAGE SERVICES                                                                                          
+          18                                                                                                                                
+                                                 **Continue** 
+
+
+
+HDFC BANK Ltd.                                     Page No .:   23                                        Statement of accounts
+
+
+                                                                         Account Branch : I E NACHARAM
+                                                                         Address        : HDFC BANK LTD, GROUND FLOOR
+                                                                                          D NO 4,480,12,P,3, VEERA REDDY
+MR.     MUNIMAKULA ACHYUTHA                                                               COLONY, NACHARAM, HYDERABAD
+Flat No D 101 Raheja Vistas                                              City           : HYDERABAD 500076
+Road No 12 Nacharam IDA  Uppal                                           State          : TELANGANA
+Raheja Vistas Apartments                                                 Phone no.      : 18002600/18001600
+HYDERABAD 500076                                                         Email          : amunimakulaa@gmail.com
+TELANGANA INDIA                                                          OD Limit       :              0.00   Currency : INR
+                                                                         Cust ID        : 308566665
+JOINT HOLDERS :                                                          Account No     : 50100783586342   OTHER
+                                                                         A/C Open Date  : 11/01/2025
+Nomination : Registered                                                  Account Status : Regular  
+Statement From      : 01/05/2026  To: 31/10/2026                         RTGS/NEFT IFSC : HDFC0007513    MICR : 500240169   
+                                                                         Branch Code    : 7513     Product Code : 100     
+
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+Date      Narration				    Chq./Ref.No.      Value Dt  Withdrawal Amt.        Deposit Amt.     Closing Balance
+--------  ----------------------------------------  ----------------  --------  ------------------  ------------------  ------------------
+
+27/10/26  EXC PYMT - 5280 XXXX XXXX 2207            000000000000000   27/10/26                              4,734.37          476,057.74   
+28/10/26  UPI-MUNIMAKULA ACHYUTHA-**************KU  0000131972728414  28/10/26          13,000.00                             463,057.74   
+          LA@OKICICI-ICIC0000069-131972728414-MAIN                                                                                          
+
+
+********  ****************************************  ****************  ********  ******************  ******************  ******************
+******************************************************************************************************************************************
+
+         STATEMENT SUMMARY  :- 
+           Opening Balance                                                      Debits              Credits          Closing Bal 
+                 15,785.06                                                1,001,313.81         1,448,586.49           463,057.74 
+
+                                                                              Dr Count             Cr Count 
+                                                                                   290                   30 
+
+
+             Generated On:   27-Nov-2026 18:52                   Generated By: 308566665             Requesting Branch Code: NET 
+
+
+State account branch GSTN:36AAACH2702H1Z1
+ HDFC Bank GSTIN number details are available at https://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax
+           Registered Office Address: HDFC Bank House, Senapati Bapat Marg, Lower Parel, Mumbai 400013	 
+                                            ---  End Of Statement ---  
+
